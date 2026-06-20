@@ -14,6 +14,31 @@
           "title_ro": "Primele cuvinte: salutul"
         }
       ]
+    },
+    {
+      "id": "a2-errands",
+      "unit_uk": "Повсякденні справи",
+      "unit_ro": "Treburi de zi cu zi",
+      "lessons": [
+        {
+          "id": "a2-errands-01",
+          "level": "A2",
+          "title_uk": "У продуктовому магазині",
+          "title_ro": "La magazinul alimentar"
+        },
+        {
+          "id": "a2-errands-02",
+          "level": "A2",
+          "title_uk": "Гроші та оплата",
+          "title_ro": "Bani și plată"
+        },
+        {
+          "id": "a2-errands-03",
+          "level": "A2",
+          "title_uk": "Запис на прийом",
+          "title_ro": "Programare"
+        }
+      ]
     }
   ]
 }

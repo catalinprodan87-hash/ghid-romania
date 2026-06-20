@@ -1,0 +1,117 @@
+{
+  "id": "a2-errands-03",
+  "level": "A2",
+  "unit_uk": "Повсякденні справи",
+  "unit_ro": "Treburi de zi cu zi",
+  "title_uk": "Запис на прийом",
+  "title_ro": "Programare",
+  "goal_uk": "Після цього уроку ви зможете записатися на прийом і назвати день та час.",
+  "vocabulary": [
+    {
+      "ro": "programare",
+      "uk": "запис (на прийом)",
+      "pron_uk": "програмáре",
+      "pos": "noun",
+      "example_ro": "Am o programare la doctor.",
+      "example_uk": "У мене запис до лікаря."
+    },
+    {
+      "ro": "a face o programare",
+      "uk": "записатися",
+      "pron_uk": "а фáче о програмáре",
+      "pos": "phrase",
+      "example_ro": "Vreau să fac o programare.",
+      "example_uk": "Я хочу записатися."
+    },
+    {
+      "ro": "mâine",
+      "uk": "завтра",
+      "pron_uk": "ми́йне",
+      "pos": "adv",
+      "example_ro": "Pot veni mâine.",
+      "example_uk": "Я можу прийти завтра."
+    },
+    {
+      "ro": "astăzi",
+      "uk": "сьогодні",
+      "pron_uk": "áстези",
+      "pos": "adv",
+      "example_ro": "Astăzi este luni.",
+      "example_uk": "Сьогодні понеділок."
+    },
+    {
+      "ro": "ora",
+      "uk": "година",
+      "pron_uk": "óра",
+      "pos": "noun",
+      "example_ro": "La ce oră?",
+      "example_uk": "О котрій годині?"
+    },
+    {
+      "ro": "luni",
+      "uk": "понеділок",
+      "pron_uk": "лунь",
+      "pos": "noun",
+      "example_ro": "Vin luni dimineața.",
+      "example_uk": "Я прийду в понеділок зранку."
+    },
+    {
+      "ro": "săptămână",
+      "uk": "тиждень",
+      "pron_uk": "септеми́не",
+      "pos": "noun",
+      "example_ro": "Săptămâna viitoare.",
+      "example_uk": "Наступного тижня."
+    },
+    {
+      "ro": "a aștepta",
+      "uk": "чекати",
+      "pron_uk": "а аштептá",
+      "pos": "verb",
+      "example_ro": "Așteptați, vă rog.",
+      "example_uk": "Зачекайте, будь ласка."
+    }
+  ],
+  "grammar_notes_uk": [
+    "Дні тижня пишуться з малої літери: luni, marți, miercuri, joi, vineri, sâmbătă, duminică.",
+    "«La ce oră?» — о котрій годині? Відповідь: «La ora 10» (о 10-й).",
+    "Щоб сказати про намір, кажіть «Vreau să…» + дієслово: «Vreau să fac o programare»."
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt_uk": "Як сказати «Я хочу записатися»?",
+      "prompt_ro": "Vreau să fac o ___.",
+      "options": ["programare", "oră", "săptămână"],
+      "answer_index": 0
+    },
+    {
+      "type": "fill_blank",
+      "instruction_uk": "Заповніть пропуск: «О котрій годині?».",
+      "prompt_ro": "La ce ___?",
+      "answer": "oră"
+    },
+    {
+      "type": "matching",
+      "instruction_uk": "З'єднайте румунські слова з українськими.",
+      "pairs": [
+        { "ro": "luni", "uk": "понеділок" },
+        { "ro": "mâine", "uk": "завтра" },
+        { "ro": "ora", "uk": "година" },
+        { "ro": "săptămână", "uk": "тиждень" }
+      ]
+    },
+    {
+      "type": "listening",
+      "instruction_uk": "Прослухайте запитання і виберіть значення.",
+      "audio_ro": "La ce oră aveți programare?",
+      "answer_uk": "О котрій годині у вас запис?"
+    },
+    {
+      "type": "speaking",
+      "instruction_uk": "Скажіть у мікрофон, що хочете записатися.",
+      "target_ro": "Vreau să fac o programare.",
+      "tips_uk": "«fac» — фак. «programare» з наголосом: progra-MA-re."
+    }
+  ]
+}

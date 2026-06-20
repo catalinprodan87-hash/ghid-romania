@@ -1,0 +1,127 @@
+{
+  "id": "a2-errands-01",
+  "level": "A2",
+  "unit_uk": "Повсякденні справи",
+  "unit_ro": "Treburi de zi cu zi",
+  "title_uk": "У продуктовому магазині",
+  "title_ro": "La magazinul alimentar",
+  "goal_uk": "Після цього уроку ви зможете купити продукти, запитати ціну та назвати кількість.",
+  "vocabulary": [
+    {
+      "ro": "magazin",
+      "uk": "магазин",
+      "pron_uk": "магазíн",
+      "ipa": "ma.ɡaˈzin",
+      "pos": "noun",
+      "example_ro": "Merg la magazin după pâine.",
+      "example_uk": "Я йду в магазин по хліб."
+    },
+    {
+      "ro": "piață",
+      "uk": "ринок",
+      "pron_uk": "пя́це",
+      "ipa": "ˈpja.t͡sə",
+      "pos": "noun",
+      "example_ro": "Cumpăr legume de la piață.",
+      "example_uk": "Я купую овочі на ринку."
+    },
+    {
+      "ro": "pâine",
+      "uk": "хліб",
+      "pron_uk": "пи́йне",
+      "pos": "noun",
+      "example_ro": "Aș dori o pâine, vă rog.",
+      "example_uk": "Я хотів би хліб, будь ласка."
+    },
+    {
+      "ro": "lapte",
+      "uk": "молоко",
+      "pron_uk": "лáпте",
+      "pos": "noun",
+      "example_ro": "Un litru de lapte, vă rog.",
+      "example_uk": "Літр молока, будь ласка."
+    },
+    {
+      "ro": "apă",
+      "uk": "вода",
+      "pron_uk": "áпе",
+      "pos": "noun",
+      "example_ro": "O sticlă de apă, vă rog.",
+      "example_uk": "Пляшку води, будь ласка."
+    },
+    {
+      "ro": "cât costă",
+      "uk": "скільки коштує",
+      "pron_uk": "кит кóсте",
+      "pos": "phrase",
+      "example_ro": "Cât costă un kilogram de mere?",
+      "example_uk": "Скільки коштує кілограм яблук?"
+    },
+    {
+      "ro": "kilogram",
+      "uk": "кілограм",
+      "pron_uk": "кілогрáм",
+      "pos": "noun",
+      "example_ro": "Un kilogram de roșii, vă rog.",
+      "example_uk": "Кілограм помідорів, будь ласка."
+    },
+    {
+      "ro": "aș dori",
+      "uk": "я хотів би / хотіла би",
+      "pron_uk": "аш дорí",
+      "pos": "phrase",
+      "example_ro": "Aș dori două pâini.",
+      "example_uk": "Я хотів би два хліби."
+    },
+    {
+      "ro": "pungă",
+      "uk": "пакет",
+      "pron_uk": "пýнге",
+      "pos": "noun",
+      "example_ro": "O pungă, vă rog.",
+      "example_uk": "Пакет, будь ласка."
+    }
+  ],
+  "grammar_notes_uk": [
+    "Щоб попросити ввічливо, кажіть «Aș dori…» (я хотів би) замість «Vreau» (я хочу).",
+    "Кількість позначають через «de»: «un kilogram de mere» (кілограм яблук), «un litru de lapte» (літр молока).",
+    "У множині багато іменників додають -i: pâine → pâini, roșie → roșii."
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt_uk": "Як ввічливо попросити дві хлібини?",
+      "prompt_ro": "___ două pâini, vă rog.",
+      "options": ["Aș dori", "Cât costă", "Mulțumesc"],
+      "answer_index": 0
+    },
+    {
+      "type": "fill_blank",
+      "instruction_uk": "Заповніть пропуск: «Скільки коштує кілограм яблук?».",
+      "prompt_ro": "Cât costă un ___ de mere?",
+      "answer": "kilogram"
+    },
+    {
+      "type": "matching",
+      "instruction_uk": "З'єднайте румунські слова з українськими.",
+      "pairs": [
+        { "ro": "pâine", "uk": "хліб" },
+        { "ro": "lapte", "uk": "молоко" },
+        { "ro": "apă", "uk": "вода" },
+        { "ro": "piață", "uk": "ринок" }
+      ]
+    },
+    {
+      "type": "listening",
+      "instruction_uk": "Прослухайте і виберіть значення.",
+      "audio_ro": "Cât costă?",
+      "answer_uk": "Скільки коштує?"
+    },
+    {
+      "type": "speaking",
+      "instruction_uk": "Скажіть у мікрофон, що ви хотіли б купити.",
+      "target_ro": "Aș dori un kilogram de mere.",
+      "tips_uk": "«aș dori» — аш дорí. «kilogram» з наголосом на останній склад: кіло-ГРАМ."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "a2-errands-02",
+  "level": "A2",
+  "unit_uk": "Повсякденні справи",
+  "unit_ro": "Treburi de zi cu zi",
+  "title_uk": "Гроші та оплата",
+  "title_ro": "Bani și plată",
+  "goal_uk": "Після цього уроку ви зможете заплатити готівкою чи карткою та зрозуміти касира.",
+  "vocabulary": [
+    {
+      "ro": "bani",
+      "uk": "гроші",
+      "pron_uk": "бань",
+      "pos": "noun",
+      "example_ro": "Nu am bani la mine.",
+      "example_uk": "У мене немає при собі грошей."
+    },
+    {
+      "ro": "card",
+      "uk": "картка",
+      "pron_uk": "кард",
+      "pos": "noun",
+      "example_ro": "Pot plăti cu cardul?",
+      "example_uk": "Можна заплатити карткою?"
+    },
+    {
+      "ro": "numerar",
+      "uk": "готівка",
+      "pron_uk": "нумерáр",
+      "pos": "noun",
+      "example_ro": "Plătesc în numerar.",
+      "example_uk": "Я плачу готівкою."
+    },
+    {
+      "ro": "a plăti",
+      "uk": "платити",
+      "pron_uk": "а плеті́",
+      "ipa": "a pləˈti",
+      "pos": "verb",
+      "example_ro": "Unde pot plăti?",
+      "example_uk": "Де можна заплатити?"
+    },
+    {
+      "ro": "bon",
+      "uk": "чек",
+      "pron_uk": "бон",
+      "pos": "noun",
+      "example_ro": "Un bon, vă rog.",
+      "example_uk": "Чек, будь ласка."
+    },
+    {
+      "ro": "rest",
+      "uk": "решта",
+      "pron_uk": "рест",
+      "pos": "noun",
+      "example_ro": "Acesta este restul.",
+      "example_uk": "Ось решта."
+    },
+    {
+      "ro": "ieftin",
+      "uk": "дешевий",
+      "pron_uk": "є́фтін",
+      "pos": "adj",
+      "example_ro": "Este destul de ieftin.",
+      "example_uk": "Це досить дешево."
+    },
+    {
+      "ro": "scump",
+      "uk": "дорогий",
+      "pron_uk": "скумп",
+      "pos": "adj",
+      "example_ro": "Este prea scump.",
+      "example_uk": "Це надто дорого."
+    },
+    {
+      "ro": "bancomat",
+      "uk": "банкомат",
+      "pron_uk": "банкомáт",
+      "pos": "noun",
+      "example_ro": "Unde este un bancomat?",
+      "example_uk": "Де банкомат?"
+    }
+  ],
+  "grammar_notes_uk": [
+    "Щоб запитати дозвіл, кажіть «Pot să…?» або «Pot plăti?» — «чи можу я…».",
+    "Прикметники узгоджуються з родом: ieftin/ieftină (дешевий/дешева), scump/scumpă (дорогий/дорога).",
+    "«în numerar» = готівкою, «cu cardul» = карткою."
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt_uk": "Як спитати, чи можна заплатити карткою?",
+      "prompt_ro": "Pot plăti cu ___?",
+      "options": ["cardul", "numerar", "bon"],
+      "answer_index": 0
+    },
+    {
+      "type": "fill_blank",
+      "instruction_uk": "Заповніть пропуск: «Це надто дорого».",
+      "prompt_ro": "Este prea ___.",
+      "answer": "scump"
+    },
+    {
+      "type": "matching",
+      "instruction_uk": "З'єднайте румунські слова з українськими.",
+      "pairs": [
+        { "ro": "bani", "uk": "гроші" },
+        { "ro": "card", "uk": "картка" },
+        { "ro": "bon", "uk": "чек" },
+        { "ro": "bancomat", "uk": "банкомат" }
+      ]
+    },
+    {
+      "type": "listening",
+      "instruction_uk": "Прослухайте запитання касира і виберіть значення.",
+      "audio_ro": "Plătiți cu cardul sau în numerar?",
+      "answer_uk": "Ви платите карткою чи готівкою?"
+    },
+    {
+      "type": "speaking",
+      "instruction_uk": "Скажіть у мікрофон, що хочете заплатити карткою.",
+      "target_ro": "Pot plăti cu cardul?",
+      "tips_uk": "«Pot» — пот. «cardul» — кáрдул. Інтонація запитання — вгору наприкінці."
+    }
+  ]
+}
