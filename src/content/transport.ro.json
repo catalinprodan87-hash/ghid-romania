@@ -2,7 +2,7 @@
   "_meta": {
     "section": "transport",
     "language": "ro",
-    "updated": "2026-06-18",
+    "updated": "2026-06-20",
     "disclaimer": "Informațiile au caracter orientativ. Rutele, tarifele și facilitățile se pot schimba — verificați datele actuale la transportatori.",
     "topicShape": "id, title, summary, steps[], contacts[]{label,value,url?}, notes[], sources[]{label,url,verified}"
   },
@@ -20,7 +20,7 @@
         { "label": "STB — transportul Bucureștiului", "value": "stbsa.ro", "url": "https://www.stbsa.ro/" }
       ],
       "sources": [
-        { "label": "Dopomoha — Transport", "url": "https://dopomoha.ro/ro/transportation", "verified": "2026-06-18" }
+        { "label": "Dopomoha — Transport", "url": "https://dopomoha.ro/ro/transport", "verified": "2026-06-18" }
       ]
     },
     {
@@ -32,7 +32,7 @@
         "În aplicație vedeți dinainte prețul și traseul."
       ],
       "sources": [
-        { "label": "Dopomoha — Transport", "url": "https://dopomoha.ro/ro/transportation", "verified": "2026-06-18" }
+        { "label": "Dopomoha — Transport", "url": "https://dopomoha.ro/ro/transport", "verified": "2026-06-18" }
       ]
     },
     {
@@ -48,7 +48,7 @@
         "În trenurile de noapte țineți bagajele aproape și închideți compartimentul."
       ],
       "sources": [
-        { "label": "Dopomoha — Transport", "url": "https://dopomoha.ro/ro/transportation", "verified": "2026-06-18" }
+        { "label": "Dopomoha — Transport", "url": "https://dopomoha.ro/ro/transport", "verified": "2026-06-18" }
       ]
     },
     {
@@ -59,7 +59,7 @@
         "Înainte de a călători, verificați dacă există în prezent reduceri sau bilete gratuite — la casa de bilete din gară, la transportator sau pe dopomoha.ro."
       ],
       "sources": [
-        { "label": "Dopomoha — Transport", "url": "https://dopomoha.ro/ro/transportation", "verified": "2026-06-18" }
+        { "label": "Dopomoha — Transport", "url": "https://dopomoha.ro/ro/transport", "verified": "2026-06-18" }
       ]
     },
     {
@@ -95,7 +95,7 @@
       "contacts": [
         { "label": "CFR Călători — calea ferată", "value": "cfrcalatori.ro", "url": "https://www.cfrcalatori.ro/" },
         { "label": "DRPCIV — permise și înmatriculări", "value": "drpciv.ro", "url": "https://www.drpciv.ro/" },
-        { "label": "Dopomoha — Transport", "value": "dopomoha.ro", "url": "https://dopomoha.ro/ro/transportation" }
+        { "label": "Dopomoha — Transport", "value": "dopomoha.ro", "url": "https://dopomoha.ro/ro/transport" }
       ],
       "sources": []
     }

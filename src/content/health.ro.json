@@ -2,7 +2,7 @@
   "_meta": {
     "section": "health",
     "language": "ro",
-    "updated": "2026-06-18",
+    "updated": "2026-06-20",
     "disclaimer": "Informațiile au caracter orientativ și nu constituie consultanță medicală. În caz de pericol pentru viață sunați la 112. Contactele și serviciile se pot schimba — verificați datele actuale la sursele oficiale.",
     "topicShape": "id, title, summary, steps[], documents[], contacts[]{label,value,url?}, notes[], sources[]{label,url,verified}"
   },
@@ -34,7 +34,7 @@
       ],
       "sources": [
         { "label": "UNHCR România — Asistență medicală", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/health-care/", "verified": "2026-06-18" },
-        { "label": "Dopomoha.ro — Sănătate", "url": "https://dopomoha.ro/ro/sanatate", "verified": "2026-06-18" }
+        { "label": "Dopomoha.ro — Sănătate", "url": "https://dopomoha.ro/ro/sanatate-1", "verified": "2026-06-18" }
       ]
     },
     {
@@ -74,7 +74,7 @@
         "În orașele mari există farmacii non-stop."
       ],
       "sources": [
-        { "label": "Dopomoha.ro — Sănătate", "url": "https://dopomoha.ro/ro/sanatate", "verified": "2026-06-18" }
+        { "label": "Dopomoha.ro — Sănătate", "url": "https://dopomoha.ro/ro/sanatate-1", "verified": "2026-06-18" }
       ]
     },
     {
@@ -128,7 +128,7 @@
       "contacts": [
         { "label": "Apel de urgență (poliție, ambulanță, pompieri)", "value": "112" },
         { "label": "UNHCR România — Asistență medicală", "value": "help.unhcr.org/romania", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/health-care/" },
-        { "label": "Dopomoha — Sănătate", "value": "dopomoha.ro", "url": "https://dopomoha.ro/ro/sanatate" },
+        { "label": "Dopomoha — Sănătate", "value": "dopomoha.ro", "url": "https://dopomoha.ro/ro/sanatate-1" },
         { "label": "Services Advisor — harta serviciilor pentru refugiați", "value": "data.unhcr.org", "url": "https://data.unhcr.org/en/situations/ukraine/location/10782" }
       ],
       "sources": []

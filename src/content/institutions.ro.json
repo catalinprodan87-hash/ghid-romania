@@ -34,7 +34,7 @@
       ],
       "sources": [
         { "label": "UNHCR România — Protecție temporară", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/temporary-protection/", "verified": "2026-06-18" },
-        { "label": "Dopomoha.ro — portalul oficial pentru ucraineni", "url": "https://dopomoha.ro/ro/temporary-protection", "verified": "2026-06-18" },
+        { "label": "Dopomoha.ro — portalul oficial pentru ucraineni", "url": "https://dopomoha.ro/ro/statut-legal", "verified": "2026-06-18" },
         { "label": "Decizia Consiliului UE de prelungire până în 2027", "url": "https://www.consilium.europa.eu/en/policies/ukraine-solidarity-financial-support/", "verified": "2026-06-18" }
       ]
     },
@@ -78,7 +78,7 @@
         { "label": "ANOFM (Agenția Națională pentru Ocuparea Forței de Muncă)", "value": "anofm.ro", "url": "https://www.anofm.ro/" }
       ],
       "sources": [
-        { "label": "Dopomoha.ro — Drepturile mele", "url": "https://dopomoha.ro/ro/my-rights", "verified": "2026-06-18" }
+        { "label": "Dopomoha.ro — Drepturile mele", "url": "https://dopomoha.ro/ro/statut-legal", "verified": "2026-06-18" }
       ]
     },
     {
@@ -98,7 +98,7 @@
       ],
       "sources": [
         { "label": "UNHCR România — Cazare și locuire", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/housing-and-accommodation/", "verified": "2026-06-18" },
-        { "label": "Dopomoha.ro — Sprijin financiar", "url": "https://dopomoha.ro/ro/the-5020-program", "verified": "2026-06-18" }
+        { "label": "Dopomoha.ro — Sprijin financiar", "url": "https://dopomoha.ro/ro/sprijin-1", "verified": "2026-06-18" }
       ]
     },
     {
@@ -109,7 +109,7 @@
         "Mai multe despre medici, farmacii și urgențe în secțiunea „Sănătate și urgențe”."
       ],
       "sources": [
-        { "label": "Dopomoha.ro — Drepturile mele", "url": "https://dopomoha.ro/ro/my-rights", "verified": "2026-06-18" }
+        { "label": "Dopomoha.ro — Drepturile mele", "url": "https://dopomoha.ro/ro/statut-legal", "verified": "2026-06-18" }
       ]
     },
     {

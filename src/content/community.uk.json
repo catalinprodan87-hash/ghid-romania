@@ -2,7 +2,7 @@
   "_meta": {
     "section": "community",
     "language": "uk",
-    "updated": "2026-06-18",
+    "updated": "2026-06-20",
     "disclaimer": "Інформація має довідковий характер. Послуги, графіки та контакти можуть змінюватися — перевіряйте актуальні дані в організацій.",
     "topicShape": "id, title, summary, steps[], contacts[]{label,value,url?}, notes[], sources[]{label,url,verified}"
   },
@@ -43,11 +43,11 @@
         "На сторінці інтеграції dopomoha.ro зібрано допомогу з пошуку роботи, написання резюме та консультаціями (зокрема для молоді)."
       ],
       "contacts": [
-        { "label": "Dopomoha — Інтеграція", "value": "dopomoha.ro", "url": "https://dopomoha.ro/uk/integration" }
+        { "label": "Dopomoha — Інтеграція", "value": "dopomoha.ro", "url": "https://dopomoha.ro/uk/sprijin" }
       ],
       "sources": [
         { "label": "IOM Румунія — INCLUD-UA", "url": "https://romania.iom.int/transition-emergency-assistance-sustainable-and-autonomous-social-inclusion-ukrainian-refugees-romanian-society-includ-ua-am2a1b", "verified": "2026-06-18" },
-        { "label": "Dopomoha — Інтеграція", "url": "https://dopomoha.ro/uk/integration", "verified": "2026-06-18" }
+        { "label": "Dopomoha — Інтеграція", "url": "https://dopomoha.ro/uk/sprijin", "verified": "2026-06-18" }
       ]
     },
     {
@@ -81,7 +81,7 @@
       "contacts": [
         { "label": "IOM Румунія", "value": "romania.iom.int", "url": "https://romania.iom.int/ukraine-response" },
         { "label": "UNHCR Румунія", "value": "help.unhcr.org/romania", "url": "https://help.unhcr.org/romania/" },
-        { "label": "Dopomoha — Інтеграція", "value": "dopomoha.ro", "url": "https://dopomoha.ro/uk/integration" },
+        { "label": "Dopomoha — Інтеграція", "value": "dopomoha.ro", "url": "https://dopomoha.ro/uk/sprijin" },
         { "label": "JRS Румунія", "value": "jrsromania.org", "url": "https://www.jrsromania.org/" }
       ],
       "sources": []

@@ -2,7 +2,7 @@
   "_meta": {
     "section": "transport",
     "language": "uk",
-    "updated": "2026-06-18",
+    "updated": "2026-06-20",
     "disclaimer": "Інформація має довідковий характер. Маршрути, тарифи та пільги можуть змінюватися — перевіряйте актуальні дані в перевізників.",
     "topicShape": "id, title, summary, steps[], contacts[]{label,value,url?}, notes[], sources[]{label,url,verified}"
   },
@@ -20,7 +20,7 @@
         { "label": "STB — транспорт Бухареста", "value": "stbsa.ro", "url": "https://www.stbsa.ro/" }
       ],
       "sources": [
-        { "label": "Dopomoha — Транспорт", "url": "https://dopomoha.ro/uk/transportation", "verified": "2026-06-18" }
+        { "label": "Dopomoha — Транспорт", "url": "https://dopomoha.ro/uk/transport", "verified": "2026-06-18" }
       ]
     },
     {
@@ -32,7 +32,7 @@
         "У застосунку ви заздалегідь бачите ціну та маршрут."
       ],
       "sources": [
-        { "label": "Dopomoha — Транспорт", "url": "https://dopomoha.ro/uk/transportation", "verified": "2026-06-18" }
+        { "label": "Dopomoha — Транспорт", "url": "https://dopomoha.ro/uk/transport", "verified": "2026-06-18" }
       ]
     },
     {
@@ -48,7 +48,7 @@
         "На нічних потягах тримайте речі при собі та зачиняйте купе."
       ],
       "sources": [
-        { "label": "Dopomoha — Транспорт", "url": "https://dopomoha.ro/uk/transportation", "verified": "2026-06-18" }
+        { "label": "Dopomoha — Транспорт", "url": "https://dopomoha.ro/uk/transport", "verified": "2026-06-18" }
       ]
     },
     {
@@ -59,7 +59,7 @@
         "Перед поїздкою перевіряйте, чи діють зараз пільги чи безкоштовні квитки — у касі вокзалу, у перевізника або на dopomoha.ro."
       ],
       "sources": [
-        { "label": "Dopomoha — Транспорт", "url": "https://dopomoha.ro/uk/transportation", "verified": "2026-06-18" }
+        { "label": "Dopomoha — Транспорт", "url": "https://dopomoha.ro/uk/transport", "verified": "2026-06-18" }
       ]
     },
     {
@@ -95,7 +95,7 @@
       "contacts": [
         { "label": "CFR Călători — залізниця", "value": "cfrcalatori.ro", "url": "https://www.cfrcalatori.ro/" },
         { "label": "DRPCIV — права та реєстрація авто", "value": "drpciv.ro", "url": "https://www.drpciv.ro/" },
-        { "label": "Dopomoha — Транспорт", "value": "dopomoha.ro", "url": "https://dopomoha.ro/uk/transportation" }
+        { "label": "Dopomoha — Транспорт", "value": "dopomoha.ro", "url": "https://dopomoha.ro/uk/transport" }
       ],
       "sources": []
     }

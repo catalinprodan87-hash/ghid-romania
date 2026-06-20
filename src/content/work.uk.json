@@ -90,7 +90,7 @@
         { "label": "ANOFM — служба зайнятості", "value": "anofm.ro", "url": "https://www.anofm.ro/" },
         { "label": "CNRED — визнання дипломів", "value": "cnred.edu.ro", "url": "https://cnred.edu.ro/" },
         { "label": "Jobs for Ukraine", "value": "jobs4ukr.com", "url": "https://jobs4ukr.com/" },
-        { "label": "Dopomoha — Мої права", "value": "dopomoha.ro", "url": "https://dopomoha.ro/uk/my-rights" }
+        { "label": "Dopomoha — Мої права", "value": "dopomoha.ro", "url": "https://dopomoha.ro/uk/pravovij-status" }
       ],
       "sources": []
     }

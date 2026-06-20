@@ -34,7 +34,7 @@
       ],
       "sources": [
         { "label": "UNHCR Румунія — Тимчасовий захист", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/temporary-protection/", "verified": "2026-06-18" },
-        { "label": "Dopomoha.ro — офіційний портал для українців", "url": "https://dopomoha.ro/uk/temporary-protection", "verified": "2026-06-18" },
+        { "label": "Dopomoha.ro — офіційний портал для українців", "url": "https://dopomoha.ro/uk/pravovij-status", "verified": "2026-06-18" },
         { "label": "Рішення Ради ЄС про продовження до 2027", "url": "https://www.consilium.europa.eu/en/policies/ukraine-solidarity-financial-support/", "verified": "2026-06-18" }
       ]
     },
@@ -78,7 +78,7 @@
         { "label": "ANOFM (Національне агентство зайнятості)", "value": "anofm.ro", "url": "https://www.anofm.ro/" }
       ],
       "sources": [
-        { "label": "Dopomoha.ro — Мої права", "url": "https://dopomoha.ro/uk/my-rights", "verified": "2026-06-18" }
+        { "label": "Dopomoha.ro — Мої права", "url": "https://dopomoha.ro/uk/pravovij-status", "verified": "2026-06-18" }
       ]
     },
     {
@@ -98,7 +98,7 @@
       ],
       "sources": [
         { "label": "UNHCR Румунія — Житло та проживання", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/housing-and-accommodation/", "verified": "2026-06-18" },
-        { "label": "Dopomoha.ro — Фінансова підтримка", "url": "https://dopomoha.ro/uk/the-5020-program", "verified": "2026-06-18" }
+        { "label": "Dopomoha.ro — Фінансова підтримка", "url": "https://dopomoha.ro/uk/sprijin", "verified": "2026-06-18" }
       ]
     },
     {
@@ -109,7 +109,7 @@
         "Детальніше про лікарів, аптеки та екстрену допомогу — у розділі «Здоров'я та екстрена допомога»."
       ],
       "sources": [
-        { "label": "Dopomoha.ro — Мої права", "url": "https://dopomoha.ro/uk/my-rights", "verified": "2026-06-18" }
+        { "label": "Dopomoha.ro — Мої права", "url": "https://dopomoha.ro/uk/pravovij-status", "verified": "2026-06-18" }
       ]
     },
     {

@@ -2,7 +2,7 @@
   "_meta": {
     "section": "community",
     "language": "ro",
-    "updated": "2026-06-18",
+    "updated": "2026-06-20",
     "disclaimer": "Informațiile au caracter orientativ. Serviciile, programele și contactele se pot schimba — verificați datele actuale la organizații.",
     "topicShape": "id, title, summary, steps[], contacts[]{label,value,url?}, notes[], sources[]{label,url,verified}"
   },
@@ -43,11 +43,11 @@
         "Pagina de integrare de pe dopomoha.ro adună sprijin pentru găsirea unui loc de muncă, redactarea CV-ului și consiliere (inclusiv pentru tineri)."
       ],
       "contacts": [
-        { "label": "Dopomoha — Integrare", "value": "dopomoha.ro", "url": "https://dopomoha.ro/ro/integration" }
+        { "label": "Dopomoha — Integrare", "value": "dopomoha.ro", "url": "https://dopomoha.ro/ro/sprijin-1" }
       ],
       "sources": [
         { "label": "IOM România — INCLUD-UA", "url": "https://romania.iom.int/transition-emergency-assistance-sustainable-and-autonomous-social-inclusion-ukrainian-refugees-romanian-society-includ-ua-am2a1b", "verified": "2026-06-18" },
-        { "label": "Dopomoha — Integrare", "url": "https://dopomoha.ro/ro/integration", "verified": "2026-06-18" }
+        { "label": "Dopomoha — Integrare", "url": "https://dopomoha.ro/ro/sprijin-1", "verified": "2026-06-18" }
       ]
     },
     {
@@ -81,7 +81,7 @@
       "contacts": [
         { "label": "IOM România", "value": "romania.iom.int", "url": "https://romania.iom.int/ukraine-response" },
         { "label": "UNHCR România", "value": "help.unhcr.org/romania", "url": "https://help.unhcr.org/romania/" },
-        { "label": "Dopomoha — Integrare", "value": "dopomoha.ro", "url": "https://dopomoha.ro/ro/integration" },
+        { "label": "Dopomoha — Integrare", "value": "dopomoha.ro", "url": "https://dopomoha.ro/ro/sprijin-1" },
         { "label": "JRS România", "value": "jrsromania.org", "url": "https://www.jrsromania.org/" }
       ],
       "sources": []

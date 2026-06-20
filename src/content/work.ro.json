@@ -90,7 +90,7 @@
         { "label": "ANOFM — serviciul de ocupare", "value": "anofm.ro", "url": "https://www.anofm.ro/" },
         { "label": "CNRED — recunoașterea diplomelor", "value": "cnred.edu.ro", "url": "https://cnred.edu.ro/" },
         { "label": "Jobs for Ukraine", "value": "jobs4ukr.com", "url": "https://jobs4ukr.com/" },
-        { "label": "Dopomoha — Drepturile mele", "value": "dopomoha.ro", "url": "https://dopomoha.ro/ro/my-rights" }
+        { "label": "Dopomoha — Drepturile mele", "value": "dopomoha.ro", "url": "https://dopomoha.ro/ro/statut-legal" }
       ],
       "sources": []
     }
