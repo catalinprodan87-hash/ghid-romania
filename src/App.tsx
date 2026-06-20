@@ -24,9 +24,13 @@ function LearnLayout() {
   )
 }
 
+// In production the app is served from /ghid-romania/ (GitHub Pages); BASE_URL
+// is '/' in dev. react-router wants the basename without a trailing slash.
+const basename = import.meta.env.BASE_URL.replace(/\/$/, '')
+
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={basename}>
       <Suspense fallback={<Spinner />}>
         <Routes>
           <Route path="/" element={<Home />} />

@@ -2,9 +2,17 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import { VitePWA } from 'vite-plugin-pwa'
 
+// Deployed to GitHub Pages at https://<user>.github.io/ghid-romania/, so the
+// production build is served from a sub-path. Dev/preview stay at root.
+const PROD_BASE = '/ghid-romania/'
+
 // https://vite.dev/config/
-export default defineConfig({
-  plugins: [
+export default defineConfig(({ command }) => {
+  const base = command === 'build' ? PROD_BASE : '/'
+
+  return {
+    base,
+    plugins: [
     react(),
     VitePWA({
       registerType: 'autoUpdate',
@@ -16,8 +24,8 @@ export default defineConfig({
           'Усе потрібне в одному місці — гід для українців у Румунії. Tot ce ai nevoie într-un singur loc.',
         lang: 'uk',
         dir: 'ltr',
-        start_url: '/',
-        scope: '/',
+        start_url: base,
+        scope: base,
         display: 'standalone',
         orientation: 'portrait',
         background_color: '#F7F9FC',
@@ -46,7 +54,7 @@ export default defineConfig({
       workbox: {
         // Pre-cache the app shell + static assets so the app loads offline.
         globPatterns: ['**/*.{js,css,html,svg,png,woff2}'],
-        navigateFallback: 'index.html',
+        navigateFallback: `${base}index.html`,
         runtimeCaching: [
           {
             // Section content files: serve fast from cache, refresh in background.
@@ -87,5 +95,6 @@ export default defineConfig({
         type: 'module',
       },
     }),
-  ],
+    ],
+  }
 })
