@@ -1,6 +1,122 @@
 {
-  "section": "education",
-  "title": "Educație",
-  "intro": "",
-  "items": []
+  "_meta": {
+    "section": "education",
+    "language": "ro",
+    "updated": "2026-06-20",
+    "disclaimer": "Informațiile au caracter orientativ. Regulile de înscriere și actele se pot schimba — verificați datele actuale la școală sau la inspectoratul școlar județean.",
+    "topicShape": "id, title, summary, steps[], documents[], contacts[]{label,value,url?}, notes[], sources[]{label,url,verified}"
+  },
+  "topics": [
+    {
+      "id": "right-to-education",
+      "title": "Dreptul la educație",
+      "summary": "Copiii cu protecție temporară au dreptul să frecventeze gratuit grădinițele și școlile publice românești, la fel ca elevii români.",
+      "notes": [
+        "Grădinița (grădiniță) — de obicei de la 3 ani; școala — de la 6 ani.",
+        "Multe familii continuă în paralel studiile după programa ucraineană, online."
+      ],
+      "sources": [
+        { "label": "UNHCR România — Educație", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/information-for-children-and-young-people-arriving-in-romania/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "how-to-enroll",
+      "title": "Cum înscrieți copilul la școală",
+      "summary": "Vă puteți adresa direct unei școli din apropiere sau inspectoratului școlar județean, care ajută la repartizare.",
+      "steps": [
+        "Găsiți o școală aproape de locuință sau adresați-vă inspectoratului școlar județean (în București — ISMB).",
+        "Depuneți actele copilului; școala ajută la stabilirea clasei potrivite.",
+        "La nevoie, inspectoratul realizează recunoașterea studiilor anterioare."
+      ],
+      "contacts": [
+        { "label": "ISMB — Inspectoratul Școlar al Municipiului București", "value": "ismb.edu.ro", "url": "https://www.ismb.ro/" }
+      ],
+      "sources": [
+        { "label": "UNHCR România — Educație", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/information-for-children-and-young-people-arriving-in-romania/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "audient-status",
+      "title": "Statutul de „audient”",
+      "summary": "La început, copilul poate frecventa școala ca „audient” — un statut tranzitoriu care ajută la adaptare și la învățarea limbii române.",
+      "notes": [
+        "Statutul de audient permite participarea la ore cât timp se face recunoașterea actelor și învățarea limbii.",
+        "Mulți copii continuă în această perioadă studiile după programa ucraineană (online)."
+      ],
+      "sources": [
+        { "label": "UNICEF România — integrare în educație", "url": "https://www.unicef.org/romania/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "becoming-regular-pupil",
+      "title": "Cum devine elev cu drepturi depline",
+      "summary": "Pentru a trece de la statutul de audient la cel de elev înscris, studiile anterioare trebuie recunoscute oficial.",
+      "steps": [
+        "Pregătiți actele de studii anterioare (foi matricole, adeverințe).",
+        "Faceți traducerea la un traducător autorizat; uneori este nevoie de legalizare.",
+        "Depuneți actele la școală — aceasta le transmite inspectoratului pentru recunoașterea academică."
+      ],
+      "sources": [
+        { "label": "UNICEF România — recunoașterea studiilor", "url": "https://www.unicef.org/romania/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "documents",
+      "title": "Acte necesare",
+      "summary": "De obicei sunt necesare actele copilului și, dacă există, actele de studii anterioare.",
+      "documents": [
+        "Actul copilului (pașaport sau certificat de naștere).",
+        "Actele de studii anterioare (foi matricole/adeverințe), de preferință traduse.",
+        "Adeverință medicală și situația vaccinărilor.",
+        "Actele unui părinte/tutore (permis de ședere, CNP)."
+      ],
+      "sources": []
+    },
+    {
+      "id": "kindergarten",
+      "title": "Grădinița",
+      "summary": "Copiii mici pot frecventa creșa (creșă) și grădinița (grădiniță).",
+      "notes": [
+        "Locurile, mai ales cele cu program prelungit, sunt adesea insuficiente — înscrieți-vă din timp.",
+        "Înscrierea se face la grădinițele locale sau la primărie."
+      ],
+      "sources": []
+    },
+    {
+      "id": "language-support",
+      "title": "Sprijin pentru limba română",
+      "summary": "Există ajutor pentru învățarea limbii române și puncte de informare pentru părinți.",
+      "notes": [
+        "Punctele de sprijin („Education Desk”, susținute de UNICEF, inclusiv la Romexpo în București) ajută părinții să se orienteze în sistemul de educație.",
+        "Despre cursurile gratuite de limbă — și în secțiunea „Comunitate și integrare”."
+      ],
+      "sources": [
+        { "label": "UNICEF România — Education Desk", "url": "https://www.unicef.org/romania/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "higher-education",
+      "title": "Învățământ superior",
+      "summary": "Tinerii se pot înscrie la universitățile din România; pentru recunoașterea diplomelor se adresează CNRED.",
+      "notes": [
+        "Există programe în limba română și în limba engleză.",
+        "Recunoașterea diplomelor anterioare — prin CNRED (vezi secțiunea „Muncă și venit”)."
+      ],
+      "contacts": [
+        { "label": "CNRED — recunoașterea diplomelor", "value": "cnred.edu.ro", "url": "https://cnred.edu.ro/" }
+      ],
+      "sources": []
+    },
+    {
+      "id": "key-contacts",
+      "title": "Contacte importante",
+      "summary": "Surse oficiale în domeniul educației.",
+      "contacts": [
+        { "label": "UNHCR România — Educație", "value": "help.unhcr.org/romania", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/information-for-children-and-young-people-arriving-in-romania/" },
+        { "label": "Ministerul Educației", "value": "edu.ro", "url": "https://www.edu.ro/" },
+        { "label": "Dopomoha — Educație", "value": "dopomoha.ro", "url": "https://dopomoha.ro/ro/educatie" }
+      ],
+      "sources": []
+    }
+  ]
 }

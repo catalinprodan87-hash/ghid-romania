@@ -1,6 +1,93 @@
 {
-  "section": "bucharest",
-  "title": "În București",
-  "intro": "",
-  "items": []
+  "_meta": {
+    "section": "bucharest",
+    "language": "ro",
+    "updated": "2026-06-18",
+    "disclaimer": "Informațiile au caracter orientativ. Programul și prețurile se pot schimba — verificați înainte de vizită.",
+    "topicShape": "id, title, summary, steps[], contacts[]{label,value,url?}, notes[], sources[]{label,url,verified}"
+  },
+  "topics": [
+    {
+      "id": "parks",
+      "title": "Parcuri și zone verzi",
+      "summary": "Bucureștiul are multe parcuri mari pentru plimbări, sport și relaxare cu copiii.",
+      "notes": [
+        "Parcul Regele Mihai I (Herăstrău) — cel mai mare, cu lac și bărci.",
+        "Cișmigiu — parc vechi în centru; Tineretului și Parcul Carol — de asemenea populare.",
+        "Grădina Botanică — un loc frumos pentru o plimbare liniștită."
+      ],
+      "sources": []
+    },
+    {
+      "id": "museums",
+      "title": "Muzee",
+      "summary": "Muzee pentru toate gusturile: istorie, artă, natură și în aer liber.",
+      "notes": [
+        "Muzeul Satului — case tradiționale în aer liber, lângă lacul Herăstrău.",
+        "Palatul Parlamentului — una dintre cele mai mari clădiri din lume (vizite cu ghid).",
+        "Muzeul Național de Artă, Muzeul „Antipa” și Muzeul Țăranului Român."
+      ],
+      "sources": []
+    },
+    {
+      "id": "old-town",
+      "title": "Centrul Vechi (Lipscani)",
+      "summary": "Centrul istoric, cu străzi pavate, restaurante, cafenele și viață de noapte.",
+      "notes": [
+        "Multe restaurante și baruri; restaurantul istoric „Caru' cu Bere” este cunoscut pentru interior.",
+        "În apropiere — Biserica Stavropoleos și librăria „Cărturești Carusel”."
+      ],
+      "sources": []
+    },
+    {
+      "id": "culture",
+      "title": "Teatre, concerte și cinema",
+      "summary": "O viață culturală bogată: concerte, spectacole și cinematografe.",
+      "notes": [
+        "Ateneul Român — principala sală de concerte; Teatrul Național și Opera Națională.",
+        "În cinematografe (mai ales în mall-uri) filmele rulează adesea în limba originală, cu subtitrare."
+      ],
+      "sources": []
+    },
+    {
+      "id": "shopping",
+      "title": "Mall-uri și cumpărături",
+      "summary": "Centre comerciale mari, cu magazine, zone de mâncare și divertisment.",
+      "notes": [
+        "AFI Cotroceni, Băneasa, Mega Mall, Promenada și Unirea Shopping Center.",
+        "Multe mall-uri au cinematografe și zone de joacă pentru copii."
+      ],
+      "sources": []
+    },
+    {
+      "id": "family-kids",
+      "title": "Cu copiii",
+      "summary": "Locuri potrivite pentru familii cu copii.",
+      "notes": [
+        "Grădina Zoologică și Muzeul „Antipa” le plac copiilor.",
+        "Therme București — un complex termal mare, cu piscine și tobogane, lângă oraș."
+      ],
+      "sources": []
+    },
+    {
+      "id": "day-trips",
+      "title": "Excursii de o zi",
+      "summary": "Locuri interesante aproape de București pentru o ieșire scurtă.",
+      "notes": [
+        "Palatul Mogoșoaia — un palat cu parc, lângă lac.",
+        "Snagov — lac și mănăstire; Therme — pentru relaxare și înot."
+      ],
+      "sources": []
+    },
+    {
+      "id": "getting-around",
+      "title": "Cum vă deplasați prin oraș",
+      "summary": "Bucureștiul se parcurge ușor cu transportul public.",
+      "notes": [
+        "Metroul (Metrorex) și transportul de suprafață (STB) — detalii în secțiunea „Transport”.",
+        "Pentru taxi sunt comode aplicațiile Bolt, Uber, Free Now."
+      ],
+      "sources": []
+    }
+  ]
 }

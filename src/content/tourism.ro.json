@@ -1,0 +1,96 @@
+{
+  "_meta": {
+    "section": "tourism",
+    "language": "ro",
+    "updated": "2026-06-18",
+    "disclaimer": "Informațiile au caracter orientativ. Programul, prețurile și disponibilitatea se pot schimba — verificați înainte de a pleca.",
+    "topicShape": "id, title, summary, steps[], contacts[]{label,value,url?}, notes[], sources[]{label,url,verified}"
+  },
+  "topics": [
+    {
+      "id": "mountains",
+      "title": "Munții Carpați",
+      "summary": "Carpații sunt cea mai populară destinație de vacanță: trasee de drumeție vara și schi iarna.",
+      "notes": [
+        "Baze comode: Brașov, Sinaia, Predeal, Valea Prahovei.",
+        "În apropiere — Castelul Bran („castelul lui Dracula”) și cetatea Râșnov.",
+        "Se ajunge cu trenul sau autocarul din București (vezi secțiunea „Transport”)."
+      ],
+      "sources": []
+    },
+    {
+      "id": "black-sea",
+      "title": "Marea Neagră",
+      "summary": "Litoralul Mării Negre este principala destinație de vară: plaje, stațiuni și fructe de mare.",
+      "notes": [
+        "Constanța este cel mai mare oraș de pe litoral; Mamaia — stațiunea principală; Vama Veche — relaxată, pentru tineri.",
+        "Sezonul este în principal iunie–septembrie."
+      ],
+      "sources": []
+    },
+    {
+      "id": "danube-delta",
+      "title": "Delta Dunării",
+      "summary": "Delta Dunării (sit UNESCO) oferă natură unică, plimbări cu barca și observarea păsărilor.",
+      "notes": [
+        "Orașul de intrare este Tulcea; de acolo pleacă bărcile spre interiorul deltei.",
+        "Cel mai bine se vizitează primăvara și vara."
+      ],
+      "sources": []
+    },
+    {
+      "id": "scenic-roads",
+      "title": "Drumuri montane: Transfăgărășan și Transalpina",
+      "summary": "Două dintre cele mai spectaculoase drumuri montane din România, cu priveliști, lacuri și cascade.",
+      "notes": [
+        "Transfăgărășanul și Transalpina sunt de obicei deschise doar vara (aproximativ iulie–octombrie) din cauza zăpezii.",
+        "Cel mai bine se parcurg cu mașina; verificați dacă drumul este deschis."
+      ],
+      "sources": []
+    },
+    {
+      "id": "monasteries-villages",
+      "title": "Maramureș și mănăstirile din Bucovina",
+      "summary": "Sate tradiționale, biserici de lemn din Maramureș și mănăstirile pictate din Bucovina (situri UNESCO).",
+      "notes": [
+        "Bucovina (Suceava) este cunoscută pentru mănăstirile pictate; Maramureșul — pentru bisericile de lemn și viața rurală.",
+        "O destinație potrivită pentru o vacanță liniștită, culturală."
+      ],
+      "sources": []
+    },
+    {
+      "id": "medieval-towns",
+      "title": "Orașe medievale",
+      "summary": "Orașe vechi din Transilvania, cu cetăți, piețe și străduțe înguste.",
+      "notes": [
+        "Sibiu, Sighișoara și Brașov au centre istorice pitorești.",
+        "Turda și Praid sunt cunoscute pentru salinele uriașe care pot fi vizitate."
+      ],
+      "sources": []
+    },
+    {
+      "id": "seasonal",
+      "title": "Sărbători: Crăciun, Anul Nou, Paște",
+      "summary": "Sezoanele de sărbători au destinații și atmosferă aparte.",
+      "notes": [
+        "Crăciun și Anul Nou: târgul de Crăciun din Sibiu, stațiunile montane (Poiana Brașov, Sinaia).",
+        "Paște: mănăstirile din Bucovina, cu tradiții deosebite."
+      ],
+      "sources": []
+    },
+    {
+      "id": "practical",
+      "title": "Cum vă planificați călătoria",
+      "summary": "Câteva sfaturi practice pentru călătoriile prin România.",
+      "notes": [
+        "Transport: trenuri (CFR), autocare (FlixBus) sau mașină — detalii în secțiunea „Transport”.",
+        "Cazarea se rezervă de obicei online (de exemplu Booking, Airbnb).",
+        "Portalul oficial de turism: romania.travel."
+      ],
+      "contacts": [
+        { "label": "Romania.travel — turism oficial", "value": "romania.travel", "url": "https://romania.travel/" }
+      ],
+      "sources": []
+    }
+  ]
+}

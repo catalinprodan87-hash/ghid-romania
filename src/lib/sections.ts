@@ -52,9 +52,9 @@ export const SECTIONS: SectionDef[] = [
   { id: 'housing', labelKey: 'menu.housing', icon: '🏠', file: 'housing', shape: 'topics' },
   { id: 'transport', labelKey: 'menu.transport', icon: '🚌', file: 'transport', shape: 'topics' },
   { id: 'shopping', labelKey: 'menu.shopping', icon: '🛒', file: 'shopping', shape: 'topics' },
-  { id: 'education', labelKey: 'menu.education', icon: '🎓', placeholder: true },
-  { id: 'travel-tourism', labelKey: 'menu.travel', icon: '🧭', placeholder: true },
-  { id: 'bucharest', labelKey: 'menu.bucharest', icon: '🌆', placeholder: true },
+  { id: 'education', labelKey: 'menu.education', icon: '🎓', file: 'education', shape: 'topics' },
+  { id: 'travel-tourism', labelKey: 'menu.travel', icon: '🧭', file: 'tourism', shape: 'topics' },
+  { id: 'bucharest', labelKey: 'menu.bucharest', icon: '🌆', file: 'bucharest', shape: 'topics' },
   {
     id: 'community-support',
     labelKey: 'menu.community',
