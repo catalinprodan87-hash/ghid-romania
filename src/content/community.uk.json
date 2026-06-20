@@ -1,0 +1,90 @@
+{
+  "_meta": {
+    "section": "community",
+    "language": "uk",
+    "updated": "2026-06-18",
+    "disclaimer": "Інформація має довідковий характер. Послуги, графіки та контакти можуть змінюватися — перевіряйте актуальні дані в організацій.",
+    "topicShape": "id, title, summary, steps[], contacts[]{label,value,url?}, notes[], sources[]{label,url,verified}"
+  },
+  "topics": [
+    {
+      "id": "blue-dot",
+      "title": "Центри «Blue Dot»",
+      "summary": "«Blue Dot» (UNICEF/UNHCR) — це безпечні центри підтримки, де в одному місці можна отримати інформацію, консультації, психологічну допомогу, правову підтримку та допомогу для дітей і родин.",
+      "notes": [
+        "Центри діють у прикордонних пунктах та в містах (зокрема Бухарест, Брашов, Ясси, Сірет, Галац та інші).",
+        "Послуги безкоштовні; за потреби надається перекладач."
+      ],
+      "sources": [
+        { "label": "UNICEF Румунія — Blue Dot", "url": "https://www.unicef.org/romania/blue-dot-providing-critical-support-refugees-ukraine", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "romanian-classes",
+      "title": "Безкоштовні курси румунської",
+      "summary": "Кілька організацій проводять безкоштовні курси румунської мови для українців.",
+      "notes": [
+        "IOM (Міжнародна організація з міграції) організовує безкоштовні очні курси в невеликих групах із викладачами.",
+        "Курси також пропонують місцеві НУО та центри підтримки — запитуйте в «Blue Dot» або на dopomoha.ro."
+      ],
+      "contacts": [
+        { "label": "IOM Румунія — допомога українцям", "value": "romania.iom.int", "url": "https://romania.iom.int/ukraine-response" }
+      ],
+      "sources": [
+        { "label": "IOM Румунія — Ukraine Response", "url": "https://romania.iom.int/ukraine-response", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "integration-programs",
+      "title": "Програми інтеграції",
+      "summary": "Є програми, що допомагають з адаптацією: мова, робота, культурна орієнтація та соціальні заходи.",
+      "notes": [
+        "IOM реалізує програму інтеграції INCLUD-UA та має путівник «Cultural Orientation – Romania» для новоприбулих.",
+        "На сторінці інтеграції dopomoha.ro зібрано допомогу з пошуку роботи, написання резюме та консультаціями (зокрема для молоді)."
+      ],
+      "contacts": [
+        { "label": "Dopomoha — Інтеграція", "value": "dopomoha.ro", "url": "https://dopomoha.ro/uk/integration" }
+      ],
+      "sources": [
+        { "label": "IOM Румунія — INCLUD-UA", "url": "https://romania.iom.int/transition-emergency-assistance-sustainable-and-autonomous-social-inclusion-ukrainian-refugees-romanian-society-includ-ua-am2a1b", "verified": "2026-06-18" },
+        { "label": "Dopomoha — Інтеграція", "url": "https://dopomoha.ro/uk/integration", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "legal-aid",
+      "title": "Безкоштовна правова допомога",
+      "summary": "Кілька організацій надають безкоштовні юридичні консультації біженцям.",
+      "notes": [
+        "Правову допомогу можна отримати в центрах «Blue Dot» та через партнерів UNHCR.",
+        "JRS Румунія (Єзуїтська служба біженців) надає підтримку, зокрема в Бухаресті."
+      ],
+      "contacts": [
+        { "label": "JRS Румунія", "value": "jrsromania.org", "url": "https://www.jrsromania.org/" },
+        { "label": "UNHCR Румунія — допомога", "value": "help.unhcr.org/romania", "url": "https://help.unhcr.org/romania/" }
+      ],
+      "sources": []
+    },
+    {
+      "id": "ukrainian-community",
+      "title": "Українська спільнота",
+      "summary": "Спілкування з іншими українцями допомагає швидше освоїтися та знайти підтримку.",
+      "notes": [
+        "Українські громадські організації, церкви (православні та греко-католицькі) і групи у соцмережах діють у багатьох містах.",
+        "У місцевих українських групах діляться порадами щодо житла, роботи, шкіл і де купити звичні продукти."
+      ],
+      "sources": []
+    },
+    {
+      "id": "key-contacts",
+      "title": "Важливі контакти",
+      "summary": "Організації підтримки та інтеграції.",
+      "contacts": [
+        { "label": "IOM Румунія", "value": "romania.iom.int", "url": "https://romania.iom.int/ukraine-response" },
+        { "label": "UNHCR Румунія", "value": "help.unhcr.org/romania", "url": "https://help.unhcr.org/romania/" },
+        { "label": "Dopomoha — Інтеграція", "value": "dopomoha.ro", "url": "https://dopomoha.ro/uk/integration" },
+        { "label": "JRS Румунія", "value": "jrsromania.org", "url": "https://www.jrsromania.org/" }
+      ],
+      "sources": []
+    }
+  ]
+}

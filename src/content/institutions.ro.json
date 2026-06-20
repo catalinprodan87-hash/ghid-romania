@@ -1,0 +1,142 @@
+{
+  "_meta": {
+    "section": "institutions",
+    "language": "ro",
+    "updated": "2026-06-20",
+    "disclaimer": "Informațiile au caracter orientativ și nu constituie consultanță juridică. Regulile se pot schimba — verificați întotdeauna datele actuale la sursele oficiale.",
+    "topicShape": "id, title, summary, eligibility?, validity?, steps[], documents[], forms[]{label,url}, contacts[]{label,value,url?}, notes[], sources[]{label,url,verified}"
+  },
+  "topics": [
+    {
+      "id": "temporary-protection",
+      "title": "Protecție temporară",
+      "summary": "Protecția temporară oferă cetățenilor ucraineni dreptul legal de a locui, munci, studia și de a beneficia de asistență medicală în România, fără a depune cerere de azil.",
+      "eligibility": [
+        "Cetățeni ucraineni care au locuit în Ucraina înainte de 24.02.2022 și membrii familiilor lor.",
+        "Apatrizi și cetățeni ai țărilor terțe care, înainte de 24.02.2022, aveau în Ucraina o formă de protecție sau rezidență permanentă și nu se pot întoarce în siguranță, precum și membrii familiilor lor."
+      ],
+      "validity": "Statutul a fost prelungit automat până în martie 2027. Dacă sunteți deja înregistrat, nu trebuie să faceți nimic pentru prelungire.",
+      "steps": [
+        "Verificați dacă îndepliniți condițiile (vezi „Cine are dreptul”).",
+        "Adresați-vă oricărui birou al Inspectoratului General pentru Imigrări (IGI) — Direcția/Serviciul/Biroul de imigrări — sau unui centru regional din județul în care vă aflați.",
+        "Furnizați datele: nume, dată de naștere, cetățenie, stare civilă, adresa în România (dovedită sau declarată).",
+        "Veți fi fotografiat, vi se vor lua amprentele și veți primi un document de identitate temporar.",
+        "Vi se va atribui un cod numeric personal (CNP), necesar pentru muncă, bancă, sănătate și școli."
+      ],
+      "documents": [
+        "Pașaport sau alt act de identitate (pașaport biometric, carte de identitate națională).",
+        "Dovada reședinței în Ucraina (dacă există).",
+        "Acte care dovedesc legăturile de familie pentru membrii familiei (certificat de căsătorie, de naștere)."
+      ],
+      "notes": [
+        "Dacă aveți un pașaport biometric ucrainean valabil, puteți rămâne în România până la 90 de zile fără viză chiar și fără înregistrare — dar pentru a obține permisul și drepturile depline, înregistrați-vă.",
+        "Absența din România mai mult de 90 de zile poate duce la pierderea statutului. În alte state UE protecția nu este valabilă automat — acolo trebuie depusă o nouă cerere."
+      ],
+      "sources": [
+        { "label": "UNHCR România — Protecție temporară", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/temporary-protection/", "verified": "2026-06-18" },
+        { "label": "Dopomoha.ro — portalul oficial pentru ucraineni", "url": "https://dopomoha.ro/ro/temporary-protection", "verified": "2026-06-18" },
+        { "label": "Decizia Consiliului UE de prelungire până în 2027", "url": "https://www.consilium.europa.eu/en/policies/ukraine-solidarity-financial-support/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "residence-permit-id",
+      "title": "Permis de ședere și act de identitate (CNP)",
+      "summary": "Ca beneficiar al protecției temporare primiți un document de identitate temporar (permis de ședere) care vă dovedește dreptul de ședere și un cod personal CNP folosit pentru muncă, bancă, sănătate și școli.",
+      "steps": [
+        "Documentul se eliberează la birourile teritoriale ale IGI din județul în care locuiți.",
+        "O parte din servicii se pot face online prin portalul IGI.",
+        "Mențineți adresa actualizată; persoana care vă găzduiește are obligația să anunțe poliția locală în 3 zile de la începutul găzduirii.",
+        "Prelungirea este legată de perioada protecției temporare — urmați îndrumările IGI."
+      ],
+      "documents": [
+        "Cererile și formularele sunt disponibile pe pagina de formulare a IGI (vezi sursele)."
+      ],
+      "forms": [
+        { "label": "Formulare IGI (cereri)", "url": "https://igi.mai.gov.ro/en/forms/" }
+      ],
+      "contacts": [
+        { "label": "Portalul online IGI", "value": "portaligi.mai.gov.ro", "url": "https://portaligi.mai.gov.ro/portaligi/" }
+      ],
+      "sources": [
+        { "label": "IGI — Permis de ședere", "url": "https://igi.mai.gov.ro/en/residence-permit/", "verified": "2026-06-18" },
+        { "label": "IGI — Drepturi și obligații", "url": "https://igi.mai.gov.ro/en/rights-and-obligations/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "work",
+      "title": "Muncă",
+      "summary": "Cu protecție temporară puteți munci în România fără un permis de muncă separat.",
+      "steps": [
+        "Obțineți codul CNP și deschideți un cont la o bancă din România — sunt necesare pentru angajare.",
+        "Dacă nu aveți diplome sau certificate, puteți da o declarație pe propria răspundere privind experiența/calificarea și lipsa unui cazier incompatibil cu activitatea (schema „Direct Employment”).",
+        "Dacă este nevoie, înregistrați-vă la agenția județeană pentru ocuparea forței de muncă (ANOFM) — oferă sprijin gratuit pentru găsirea unui loc de muncă."
+      ],
+      "notes": [
+        "Beneficiarii protecției temporare nu au nevoie de un permis de muncă separat."
+      ],
+      "contacts": [
+        { "label": "ANOFM (Agenția Națională pentru Ocuparea Forței de Muncă)", "value": "anofm.ro", "url": "https://www.anofm.ro/" }
+      ],
+      "sources": [
+        { "label": "Dopomoha.ro — Drepturile mele", "url": "https://dopomoha.ro/ro/my-rights", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "financial-support",
+      "title": "Sprijin financiar",
+      "summary": "Există ajutor financiar pe termen scurt, în special pentru nou-veniți; sprijinul pe termen lung este posibil prin Venitul Minim de Incluziune.",
+      "steps": [
+        "Nou-veniți (intrare după 1 iulie 2024): o sumă lunară forfetară timp de până la 3 luni de la data intrării (conform Ordonanței de Urgență 96/2024).",
+        "După această perioadă sau în alte situații, se poate solicita Venitul Minim de Incluziune (Legea 196/2016).",
+        "Cererea se depune la primăria de la adresa din permisul de ședere; în București, la primăria de sector."
+      ],
+      "notes": [
+        "Sumele și condițiile se schimbă frecvent — verificați datele actuale la primărie sau pe dopomoha.ro înainte de a depune cererea."
+      ],
+      "contacts": [
+        { "label": "Call center guvernamental pentru refugiați (Luni–Vineri 08:00–16:00)", "value": "+40 213 456 789" }
+      ],
+      "sources": [
+        { "label": "UNHCR România — Cazare și locuire", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/housing-and-accommodation/", "verified": "2026-06-18" },
+        { "label": "Dopomoha.ro — Sprijin financiar", "url": "https://dopomoha.ro/ro/the-5020-program", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "healthcare-access",
+      "title": "Acces la sănătate",
+      "summary": "Protecția temporară oferă acces la sistemul național de sănătate. Se asigură asistența de urgență și tratamentul afecțiunilor acute sau cronice grave; persoanele angajate sunt asigurate la fel ca lucrătorii români.",
+      "notes": [
+        "Mai multe despre medici, farmacii și urgențe în secțiunea „Sănătate și urgențe”."
+      ],
+      "sources": [
+        { "label": "Dopomoha.ro — Drepturile mele", "url": "https://dopomoha.ro/ro/my-rights", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "housing-buy-loans",
+      "title": "Cumpărarea locuinței și credite",
+      "summary": "De obicei, primul pas este închirierea. Cumpărarea unei locuințe sau un credit ipotecar sunt posibile, dar necesită un cod CNP, ședere legală, dovada unui venit stabil și se realizează printr-o bancă și un notar public.",
+      "notes": [
+        "Acestea sunt informații generale, nu consultanță financiară. Condițiile bancare diferă — înainte de a semna, cereți consultanță independentă la bancă și la notar."
+      ],
+      "sources": []
+    },
+    {
+      "id": "key-contacts",
+      "title": "Contacte importante",
+      "summary": "Surse oficiale și numere de urgență.",
+      "contacts": [
+        { "label": "Apel de urgență (poliție, ambulanță, pompieri)", "value": "112" },
+        { "label": "Dopomoha — portalul oficial pentru ucraineni", "value": "dopomoha.ro", "url": "https://dopomoha.ro/ro" },
+        { "label": "UNHCR România", "value": "help.unhcr.org/romania", "url": "https://help.unhcr.org/romania/" },
+        { "label": "IGI — imigrări", "value": "igi.mai.gov.ro", "url": "https://igi.mai.gov.ro/en/" },
+        { "label": "Call center guvernamental pentru refugiați (Luni–Vineri 08:00–16:00)", "value": "+40 213 456 789" },
+        { "label": "UNHCR România — linie de asistență (Luni–Vineri 09:00–17:00, și WhatsApp/Telegram)", "value": "+40 723 653 651" },
+        { "label": "CNRR — consiliere juridică și socială gratuită", "value": "+40 730 073 170" },
+        { "label": "Poliția de Frontieră (asistență în limba ucraineană)", "value": "+40 219 590" },
+        { "label": "IOM România (Organizația Internațională pentru Migrație)", "value": "romania.iom.int", "url": "https://romania.iom.int/" }
+      ],
+      "sources": []
+    }
+  ]
+}

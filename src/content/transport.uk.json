@@ -1,0 +1,103 @@
+{
+  "_meta": {
+    "section": "transport",
+    "language": "uk",
+    "updated": "2026-06-18",
+    "disclaimer": "Інформація має довідковий характер. Маршрути, тарифи та пільги можуть змінюватися — перевіряйте актуальні дані в перевізників.",
+    "topicShape": "id, title, summary, steps[], contacts[]{label,value,url?}, notes[], sources[]{label,url,verified}"
+  },
+  "topics": [
+    {
+      "id": "city-transport",
+      "title": "Міський транспорт",
+      "summary": "У містах курсують автобуси, трамваї, тролейбуси, а у Бухаресті — ще й метро.",
+      "notes": [
+        "У Бухаресті наземним транспортом керує STB, а метро — Metrorex.",
+        "Квиток або проїзну картку купують у касах/кіосках біля зупинок; картку можна поповнити онлайн (наприклад, online.stbsa.ro).",
+        "Оплата часто можлива безконтактною карткою або в застосунку. За проїзд зазвичай треба платити — держава не покриває транспортні витрати."
+      ],
+      "contacts": [
+        { "label": "STB — транспорт Бухареста", "value": "stbsa.ro", "url": "https://www.stbsa.ro/" }
+      ],
+      "sources": [
+        { "label": "Dopomoha — Транспорт", "url": "https://dopomoha.ro/uk/transportation", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "ride-hailing",
+      "title": "Таксі та застосунки",
+      "summary": "Замість того, щоб ловити таксі на вулиці, безпечніше користуватися застосунками виклику.",
+      "notes": [
+        "Працюють Bolt, Uber та Free Now — у всіх великих містах, інтерфейс доступний англійською.",
+        "У застосунку ви заздалегідь бачите ціну та маршрут."
+      ],
+      "sources": [
+        { "label": "Dopomoha — Транспорт", "url": "https://dopomoha.ro/uk/transportation", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "intercity",
+      "title": "Міжміські поїздки",
+      "summary": "Між містами курсують потяги та автобуси; квитки можна купити онлайн.",
+      "contacts": [
+        { "label": "CFR Călători — залізниця", "value": "cfrcalatori.ro", "url": "https://www.cfrcalatori.ro/" },
+        { "label": "FlixBus — автобуси", "value": "flixbus.ro", "url": "https://www.flixbus.ro/" },
+        { "label": "Autogari.ro — розклад автобусів", "value": "autogari.ro", "url": "https://www.autogari.ro/" }
+      ],
+      "notes": [
+        "На нічних потягах тримайте речі при собі та зачиняйте купе."
+      ],
+      "sources": [
+        { "label": "Dopomoha — Транспорт", "url": "https://dopomoha.ro/uk/transportation", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "discounts-note",
+      "title": "Пільги та безкоштовний проїзд",
+      "summary": "На початку війни діяв безкоштовний проїзд для українців, але такі схеми змінюються.",
+      "notes": [
+        "Перед поїздкою перевіряйте, чи діють зараз пільги чи безкоштовні квитки — у касі вокзалу, у перевізника або на dopomoha.ro."
+      ],
+      "sources": [
+        { "label": "Dopomoha — Транспорт", "url": "https://dopomoha.ro/uk/transportation", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "driving-licence",
+      "title": "Обмін водійського посвідчення",
+      "summary": "Маючи законне проживання, ви можете обміняти іноземне водійське посвідчення на румунське.",
+      "notes": [
+        "Обмін здійснює DRPCIV (служба з прав водіїв і реєстрації транспорту), відповідно до Розпорядження 163/2011.",
+        "Актуальний перелік документів дивіться на сайті DRPCIV."
+      ],
+      "contacts": [
+        { "label": "DRPCIV — права водіїв і реєстрація авто", "value": "drpciv.ro", "url": "https://www.drpciv.ro/" }
+      ],
+      "sources": [
+        { "label": "Посольство США в Румунії — водіння в Румунії", "url": "https://ro.usembassy.gov/driving-in-romania/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "car",
+      "title": "Власний автомобіль",
+      "summary": "Для керування автомобілем потрібні документи на авто та чинне страхування.",
+      "notes": [
+        "Обов'язкове страхування цивільної відповідальності — RCA.",
+        "Під час поїздки майте при собі техпаспорт, страховку та водійське посвідчення.",
+        "Щодо реєстрації чи ввезення авто звертайтеся до DRPCIV."
+      ],
+      "sources": []
+    },
+    {
+      "id": "key-contacts",
+      "title": "Важливі контакти",
+      "summary": "Перевізники та офіційні джерела з транспорту.",
+      "contacts": [
+        { "label": "CFR Călători — залізниця", "value": "cfrcalatori.ro", "url": "https://www.cfrcalatori.ro/" },
+        { "label": "DRPCIV — права та реєстрація авто", "value": "drpciv.ro", "url": "https://www.drpciv.ro/" },
+        { "label": "Dopomoha — Транспорт", "value": "dopomoha.ro", "url": "https://dopomoha.ro/uk/transportation" }
+      ],
+      "sources": []
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "a1-greetings-01",
+  "level": "A1",
+  "unit_uk": "Привітання та знайомство",
+  "unit_ro": "Salutări și prezentare",
+  "title_uk": "Перші слова: вітання",
+  "title_ro": "Primele cuvinte: salutul",
+  "goal_uk": "Після цього уроку ви зможете привітатися, попрощатися і назвати своє ім'я румунською.",
+  "vocabulary": [
+    {
+      "ro": "Bună ziua",
+      "uk": "Добрий день",
+      "pron_uk": "буна зіуа",
+      "ipa": "ˈbu.nə ˈzi.wa",
+      "pos": "phrase",
+      "example_ro": "Bună ziua, mă numesc Olena.",
+      "example_uk": "Добрий день, мене звати Олена."
+    },
+    {
+      "ro": "Bună",
+      "uk": "Привіт",
+      "pron_uk": "буна",
+      "ipa": "ˈbu.nə",
+      "pos": "phrase",
+      "example_ro": "Bună, ce faci?",
+      "example_uk": "Привіт, як справи?"
+    },
+    {
+      "ro": "La revedere",
+      "uk": "До побачення",
+      "pron_uk": "ла ревéдере",
+      "ipa": "la re.veˈde.re",
+      "pos": "phrase",
+      "example_ro": "La revedere, pe mâine!",
+      "example_uk": "До побачення, до завтра!"
+    },
+    {
+      "ro": "Mulțumesc",
+      "uk": "Дякую",
+      "pron_uk": "мулцуме́ск",
+      "ipa": "mul.tsuˈmesk",
+      "pos": "phrase",
+      "example_ro": "Mulțumesc pentru ajutor.",
+      "example_uk": "Дякую за допомогу."
+    },
+    {
+      "ro": "Mă numesc…",
+      "uk": "Мене звати…",
+      "pron_uk": "ме нуме́ск",
+      "ipa": "mə nuˈmesk",
+      "pos": "phrase",
+      "example_ro": "Mă numesc Andrii.",
+      "example_uk": "Мене звати Андрій."
+    },
+    {
+      "ro": "Da",
+      "uk": "Так",
+      "pron_uk": "да",
+      "ipa": "da",
+      "pos": "adv",
+      "example_ro": "Da, mulțumesc.",
+      "example_uk": "Так, дякую."
+    },
+    {
+      "ro": "Nu",
+      "uk": "Ні",
+      "pron_uk": "ну",
+      "ipa": "nu",
+      "pos": "adv",
+      "example_ro": "Nu, mulțumesc.",
+      "example_uk": "Ні, дякую."
+    },
+    {
+      "ro": "Vă rog",
+      "uk": "Будь ласка / прошу",
+      "pron_uk": "ве рог",
+      "ipa": "və ˈrog",
+      "pos": "phrase",
+      "example_ro": "Un bilet, vă rog.",
+      "example_uk": "Один квиток, будь ласка."
+    }
+  ],
+  "grammar_notes_uk": [
+    "«Bună ziua» — це ввічливе вітання (до незнайомих, в установах). «Bună» — неформальне, для друзів.",
+    "Щоб назвати ім'я, кажіть «Mă numesc…» і додайте своє ім'я.",
+    "Літери з рисками читаються інакше: ț = «ц», ș = «ш», ă = короткий «е/и»."
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "prompt_uk": "Як ввічливо привітатися в установі?",
+      "prompt_ro": "___, mă numesc Olena.",
+      "options": ["Bună ziua", "La revedere", "Mulțumesc"],
+      "answer_index": 0
+    },
+    {
+      "type": "fill_blank",
+      "instruction_uk": "Заповніть пропуск: «Дякую за допомогу».",
+      "prompt_ro": "___ pentru ajutor.",
+      "answer": "Mulțumesc"
+    },
+    {
+      "type": "matching",
+      "instruction_uk": "З'єднайте румунські слова з українськими.",
+      "pairs": [
+        { "ro": "Da", "uk": "Так" },
+        { "ro": "Nu", "uk": "Ні" },
+        { "ro": "La revedere", "uk": "До побачення" },
+        { "ro": "Vă rog", "uk": "Будь ласка" }
+      ]
+    },
+    {
+      "type": "listening",
+      "instruction_uk": "Прослухайте і виберіть значення.",
+      "audio_ro": "Mulțumesc",
+      "answer_uk": "Дякую"
+    },
+    {
+      "type": "speaking",
+      "instruction_uk": "Скажіть у мікрофон, представляючись.",
+      "target_ro": "Bună ziua, mă numesc Andrii.",
+      "tips_uk": "Наголос: бу-НА зі-У-а. «ț» у mulțumesc читається як «ц»."
+    }
+  ]
+}

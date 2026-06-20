@@ -1,0 +1,101 @@
+{
+  "_meta": {
+    "section": "housing",
+    "language": "ro",
+    "updated": "2026-06-18",
+    "disclaimer": "Informațiile au caracter orientativ și nu constituie consultanță juridică. Verificați datele și condițiile actuale înainte de a semna orice contract.",
+    "topicShape": "id, title, summary, steps[], contacts[]{label,value,url?}, notes[], sources[]{label,url,verified}"
+  },
+  "topics": [
+    {
+      "id": "finding-a-home",
+      "title": "Cum găsiți o locuință de închiriat",
+      "summary": "Anunțurile de închiriere apar pe platforme online, la agenții imobiliare și în comunități.",
+      "contacts": [
+        { "label": "OLX — anunțuri de închiriere", "value": "olx.ro", "url": "https://www.olx.ro/imobiliare/" },
+        { "label": "Storia", "value": "storia.ro", "url": "https://www.storia.ro/" },
+        { "label": "Imobiliare.ro", "value": "imobiliare.ro", "url": "https://www.imobiliare.ro/" },
+        { "label": "Publi24", "value": "publi24.ro", "url": "https://www.publi24.ro/" }
+      ],
+      "notes": [
+        "Aceeași locuință apare adesea pe mai multe site-uri. „Garsonieră” înseamnă un apartament de o cameră tip studio.",
+        "Comunitățile ucrainene din rețelele sociale ajută adesea la găsirea unei locuințe."
+      ],
+      "sources": []
+    },
+    {
+      "id": "rental-contract",
+      "title": "Contractul de închiriere",
+      "summary": "Încheiați întotdeauna un contract de închiriere scris și citiți cu atenție condițiile.",
+      "notes": [
+        "Garanția este de obicei egală cu chiria pe 1–2 luni.",
+        "Durata contractului este adesea de 1 an.",
+        "Verificați ce include chiria, cine plătește utilitățile și condițiile de returnare a garanției."
+      ],
+      "sources": []
+    },
+    {
+      "id": "register-address",
+      "title": "Înregistrarea adresei",
+      "summary": "O adresă dovedită este importantă pentru permisul de ședere și codul CNP.",
+      "notes": [
+        "Este de preferat ca contractul de închiriere să fie înregistrat (proprietarul îl înregistrează la ANAF) — acest lucru ajută la dovedirea adresei.",
+        "Persoana care vă găzduiește sau vă închiriază are obligația să anunțe poliția locală în 3 zile de la începutul șederii."
+      ],
+      "sources": [
+        { "label": "IGI — Drepturi și obligații", "url": "https://igi.mai.gov.ro/en/rights-and-obligations/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "utilities",
+      "title": "Utilități",
+      "summary": "Electricitatea, gazul, apa, căldura și internetul pot fi plătite separat de chirie.",
+      "notes": [
+        "Clarificați cu proprietarul ce utilități sunt incluse în chirie și ce plătiți separat.",
+        "Pentru internet și telefonie mobilă există mai mulți operatori — comparați tarifele."
+      ],
+      "sources": []
+    },
+    {
+      "id": "avoid-scams",
+      "title": "Cum evitați înșelăciunile",
+      "summary": "Fiți precaut cu ofertele care par prea bune.",
+      "notes": [
+        "Nu plătiți garanția și nu trimiteți bani înainte de a vedea locuința și de a semna contractul.",
+        "Atenție la cererile de plată în avans, la presiunea de a „decide repede” și la proprietarii care sunt „acum în străinătate”.",
+        "Dacă există o agenție, întrebați din timp cât este comisionul."
+      ],
+      "sources": []
+    },
+    {
+      "id": "short-term-support",
+      "title": "Sprijin temporar pentru locuire",
+      "summary": "Pentru nou-veniți există un sprijin financiar pe termen scurt pentru cazare (până la 3 luni).",
+      "notes": [
+        "Detalii în secțiunea „Instituții și acte” → „Sprijin financiar”. Sumele și condițiile se schimbă — verificați-le pe cele actuale."
+      ],
+      "sources": [
+        { "label": "UNHCR România — Cazare și locuire", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/housing-and-accommodation/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "buying",
+      "title": "Cumpărarea unei locuințe",
+      "summary": "Cumpărarea unei locuințe sau un credit ipotecar sunt posibile, dar necesită un cod CNP, ședere legală și dovada venitului.",
+      "notes": [
+        "Detalii în secțiunea „Instituții și acte” → „Cumpărarea locuinței și credite”. Acestea sunt informații generale, nu consultanță financiară."
+      ],
+      "sources": []
+    },
+    {
+      "id": "key-contacts",
+      "title": "Contacte importante",
+      "summary": "Surse utile în domeniul locuirii.",
+      "contacts": [
+        { "label": "UNHCR România — Locuire", "value": "help.unhcr.org/romania", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/housing-and-accommodation/" },
+        { "label": "Dopomoha — portalul oficial", "value": "dopomoha.ro", "url": "https://dopomoha.ro/ro" }
+      ],
+      "sources": []
+    }
+  ]
+}

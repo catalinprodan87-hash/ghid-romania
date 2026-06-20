@@ -1,0 +1,132 @@
+{
+  "_meta": {
+    "section": "shopping",
+    "language": "ro",
+    "updated": "2026-06-18",
+    "disclaimer": "Aceasta este o listă orientativă de servicii comerciale, oferită pentru comoditate — nu publicitate sau recomandare. Aplicația nu este plătită de aceste companii. Prețurile, serviciile și disponibilitatea se pot schimba — verificați pe site-urile companiilor.",
+    "topicShape": "id, title, summary, steps[], contacts[]{label,value,url?}, notes[], sources[]{label,url,verified}"
+  },
+  "topics": [
+    {
+      "id": "how-it-works",
+      "title": "Cum funcționează cumpărăturile online în România",
+      "summary": "Comandați de pe site sau din aplicație, plătiți cu cardul sau ramburs (numerar la livrare), iar comanda ajunge prin curier sau la un automat de colete.",
+      "notes": [
+        "Pentru o comandă aveți nevoie de obicei de adresă și telefon; pentru plată, de un card bancar (sau numerar la livrare).",
+        "Multe magazine livrează la automate de colete (de exemplu easybox de la Sameday) — ridicați coletul când vă convine, cu un cod.",
+        "Păstrați confirmarea comenzii — vă trebuie pentru retur sau garanție."
+      ],
+      "sources": []
+    },
+    {
+      "id": "marketplaces",
+      "title": "Magazine online mari",
+      "summary": "Cele mai mari platforme de unde puteți cumpăra aproape orice: electronice, electrocasnice, produse pentru casă, haine.",
+      "contacts": [
+        { "label": "eMAG — cel mai mare marketplace (aproape orice)", "value": "emag.ro", "url": "https://www.emag.ro/" },
+        { "label": "Altex / Media Galaxy — electronice și electrocasnice", "value": "altex.ro", "url": "https://altex.ro/" },
+        { "label": "Fashion Days — haine și încălțăminte", "value": "fashiondays.ro", "url": "https://www.fashiondays.ro/" }
+      ],
+      "notes": [
+        "Pe eMAG vând și comercianți terți (marketplace) — fiți atent la evaluările vânzătorului.",
+        "Reducerile mari sunt de obicei de „Black Friday” (noiembrie)."
+      ],
+      "sources": []
+    },
+    {
+      "id": "groceries-delivery",
+      "title": "Livrare de alimente",
+      "summary": "Supermarketuri online care aduc cumpărăturile acasă, inclusiv produse proaspete (livrare refrigerată).",
+      "contacts": [
+        { "label": "Freshful (de la eMAG)", "value": "freshful.ro", "url": "https://www.freshful.ro/" },
+        { "label": "Sezamo", "value": "sezamo.ro", "url": "https://www.sezamo.ro/" },
+        { "label": "Bringo (partener Carrefour)", "value": "bringo.ro", "url": "https://www.bringo.ro/" }
+      ],
+      "notes": [
+        "De obicei există o taxă de livrare și o comandă minimă; abonamentele sau promoțiile pot reduce costul livrării.",
+        "Pentru fructe, legume și carne proaspătă sunt adesea preferate Freshful sau Sezamo."
+      ],
+      "sources": []
+    },
+    {
+      "id": "food-delivery",
+      "title": "Mâncare gata și livrare rapidă",
+      "summary": "Aplicații care aduc mâncare de la restaurante, dar și alimente, medicamente și alte produse — adesea în mai puțin de o oră.",
+      "contacts": [
+        { "label": "Glovo — mâncare, alimente, diverse", "value": "glovoapp.com", "url": "https://glovoapp.com/ro/" },
+        { "label": "Bolt Food", "value": "bolt.eu", "url": "https://bolt.eu/ro/food/" },
+        { "label": "Tazz", "value": "tazz.ro", "url": "https://tazz.ro/" }
+      ],
+      "notes": [
+        "Glovo livrează o gamă foarte variată de produse; Bolt Food și Tazz — mai ales mâncare de la restaurante."
+      ],
+      "sources": []
+    },
+    {
+      "id": "secondhand",
+      "title": "Produse second-hand și anunțuri",
+      "summary": "Platforme pentru mobilă, electrocasnice, haine și mașini la mâna a doua — utile când vă instalați într-un loc nou.",
+      "contacts": [
+        { "label": "OLX — anunțuri (mobilă, electronice, diverse)", "value": "olx.ro", "url": "https://www.olx.ro/" },
+        { "label": "Vinted — haine second-hand", "value": "vinted.ro", "url": "https://www.vinted.ro/" },
+        { "label": "Autovit — mașini", "value": "autovit.ro", "url": "https://www.autovit.ro/" }
+      ],
+      "notes": [
+        "Sunt tranzacții între persoane — fiți prudent: nu trimiteți bani în avans necunoscuților, întâlniți-vă într-un loc sigur, verificați produsul.",
+        "Atenție la ofertele „prea bune” și la cererile de plată prin linkuri suspecte."
+      ],
+      "sources": []
+    },
+    {
+      "id": "pharmacy-online",
+      "title": "Farmacii și produse de sănătate online",
+      "summary": "Medicamentele fără rețetă, vitaminele și produsele de igienă pot fi comandate online sau prin aplicații de livrare.",
+      "contacts": [
+        { "label": "Dr. Max — farmacie online", "value": "drmax.ro", "url": "https://www.drmax.ro/" }
+      ],
+      "notes": [
+        "Medicamentele pe bază de rețetă se cumpără din farmacie, conform regulilor (vezi secțiunea „Sănătate și urgențe”).",
+        "Glovo și Tazz livrează și de la unele farmacii."
+      ],
+      "sources": []
+    },
+    {
+      "id": "ukrainian-international",
+      "title": "Produse ucrainene și familiare",
+      "summary": "Produsele familiare pot fi găsite în magazine specializate, în anunțuri și prin comunitățile ucrainene locale.",
+      "notes": [
+        "Căutați „produse ucrainene” sau „produse est-europene” pe OLX și în aplicațiile de livrare.",
+        "Comunitățile ucrainene și grupurile din rețelele sociale indică adesea de unde se cumpără produse familiare în orașul dvs."
+      ],
+      "sources": []
+    },
+    {
+      "id": "consumer-rights",
+      "title": "Drepturile dvs. de cumpărător",
+      "summary": "La cumpărăturile online aveți dreptul să renunțați la achiziție în 14 zile și dreptul la garanție dacă produsul este defect.",
+      "notes": [
+        "Dreptul de retragere: pentru comenzi online (la distanță) puteți returna produsul în 14 zile și primiți banii înapoi (Ordonanța de Urgență 34/2014). Unele produse fac excepție (de exemplu cele de igienă, după desigilare).",
+        "Garanție: pentru produse defecte există garanția legală de conformitate (de obicei 2 ani).",
+        "Dacă un magazin vă încalcă drepturile, puteți depune o plângere la ANPC (Autoritatea Națională pentru Protecția Consumatorilor)."
+      ],
+      "contacts": [
+        { "label": "ANPC — protecția consumatorilor", "value": "anpc.ro", "url": "https://anpc.ro/" }
+      ],
+      "sources": [
+        { "label": "ANPC — drepturile consumatorilor", "url": "https://anpc.ro/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "tips-safety",
+      "title": "Sfaturi și siguranță",
+      "summary": "Câteva obiceiuri simple vă protejează banii și datele.",
+      "notes": [
+        "Cumpărați de pe site-uri cunoscute; verificați recenziile despre vânzător.",
+        "Plata cu cardul este adesea mai sigură și mai ușor de rambursat decât numerarul în avans.",
+        "Nu introduceți datele cardului pe site-uri suspecte și nu accesați linkuri din mesaje necunoscute.",
+        "Păstrați confirmările comenzilor și bonurile."
+      ],
+      "sources": []
+    }
+  ]
+}

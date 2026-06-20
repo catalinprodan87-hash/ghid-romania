@@ -1,0 +1,137 @@
+{
+  "_meta": {
+    "section": "health",
+    "language": "uk",
+    "updated": "2026-06-18",
+    "disclaimer": "Інформація має довідковий характер і не є медичною консультацією. У разі небезпеки для життя телефонуйте 112. Контакти й послуги можуть змінюватися — перевіряйте актуальні дані за офіційними джерелами.",
+    "topicShape": "id, title, summary, steps[], documents[], contacts[]{label,value,url?}, notes[], sources[]{label,url,verified}"
+  },
+  "topics": [
+    {
+      "id": "emergency-112",
+      "title": "Екстрений номер 112",
+      "summary": "112 — єдиний номер екстреної допомоги в Румунії: поліція, швидка та пожежна служба. Дзвінок безкоштовний.",
+      "notes": [
+        "Працює по всій країні, цілодобово, з усіх телефонних мереж.",
+        "Оператори можуть приймати дзвінки кількома міжнародними мовами та мовами національних меншин.",
+        "Телефонуйте 112 у разі небезпеки для життя, тяжкої травми чи невідкладного стану."
+      ],
+      "contacts": [
+        { "label": "Екстрений виклик (поліція, швидка, пожежні)", "value": "112" }
+      ],
+      "sources": [
+        { "label": "UNHCR Румунія — Медична допомога", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/health-care/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "how-to-access-care",
+      "title": "Як отримати медичну допомогу",
+      "summary": "Маючи тимчасовий захист, ви маєте доступ до медичних послуг на тих самих умовах, що й застраховані громадяни Румунії — безкоштовно, без сплати внесків.",
+      "notes": [
+        "Безкоштовно надаються: первинна допомога та відповідне лікування; невідкладна стаціонарна допомога; лікування гострих чи хронічних станів, що становлять безпосередню загрозу життю.",
+        "Ви звільнені від співоплати та особистого внеску за ліки в амбулаторному лікуванні.",
+        "До лікаря-спеціаліста в амбулаторії можна потрапити без направлення."
+      ],
+      "sources": [
+        { "label": "UNHCR Румунія — Медична допомога", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/health-care/", "verified": "2026-06-18" },
+        { "label": "Dopomoha.ro — Медицина", "url": "https://dopomoha.ro/uk/sanatate", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "family-doctor",
+      "title": "Сімейний лікар",
+      "summary": "Сімейний лікар (medic de familie) — перша точка контакту для більшості медичних потреб: огляди, рецепти, направлення.",
+      "steps": [
+        "Ви можете звернутися до сімейного лікаря незалежно від того, чи ви офіційно до нього прикріплені.",
+        "За можливості зареєструйтеся в сімейного лікаря поблизу вашого місця проживання для постійного спостереження.",
+        "Сімейний лікар за потреби направить вас до спеціаліста або в лікарню."
+      ],
+      "sources": [
+        { "label": "UNHCR Румунія — Медична допомога", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/health-care/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "hospitals-emergency",
+      "title": "Лікарні та невідкладна допомога",
+      "summary": "У разі невідкладних станів звертайтеся до відділень екстреної допомоги (UPU/CPU) у лікарнях або телефонуйте 112.",
+      "notes": [
+        "Для медичних і хірургічних невідкладних станів можливе пряме направлення до спеціаліста без направлення від сімейного лікаря.",
+        "Відділення невідкладної допомоги: UPU (Unitate de Primiri Urgențe) або CPU — у лікарнях зі стаціонаром."
+      ],
+      "contacts": [
+        { "label": "Екстрений виклик", "value": "112" }
+      ],
+      "sources": [
+        { "label": "UNHCR Румунія — Медична допомога", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/health-care/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "pharmacies-medicines",
+      "title": "Аптеки та ліки",
+      "summary": "Ліки за рецептом покриваються на тих самих умовах, що й для застрахованих громадян Румунії; ви звільнені від співоплати за амбулаторні ліки.",
+      "notes": [
+        "Аптека румунською — «farmacie».",
+        "У великих містах є цілодобові аптеки (non-stop)."
+      ],
+      "sources": [
+        { "label": "Dopomoha.ro — Медицина", "url": "https://dopomoha.ro/uk/sanatate", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "children-health",
+      "title": "Здоров'я дітей",
+      "summary": "Діти мають доступ до медичної допомоги та щеплень нарівні із застрахованими дітьми Румунії.",
+      "notes": [
+        "Доступні щеплення (зокрема проти поліомієліту та кору) і педіатрична допомога.",
+        "Центри «Blue Dot» (UNICEF/UNHCR) надають допомогу та безпечний простір для дітей і родин.",
+        "Для дітей з онкозахворюваннями діє спеціальна підтримка — Ukraine Child Cancer Help."
+      ],
+      "contacts": [
+        { "label": "Ukraine Child Cancer Help", "value": "ukrainechildcancerhelp.ro", "url": "https://ukrainechildcancerhelp.ro/en" }
+      ],
+      "sources": [
+        { "label": "UNICEF Румунія — підтримка дітей і родин", "url": "https://www.unicef.org/romania/stories/unicef-support-romania-refugee-children-women-and-families-coming-ukraine", "verified": "2026-06-18" },
+        { "label": "UNHCR Румунія — Медична допомога", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/health-care/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "mental-health",
+      "title": "Психологічна підтримка",
+      "summary": "Кілька організацій у Румунії надають безкоштовну психологічну підтримку біженцям, з перекладачами та україномовними спеціалістами.",
+      "contacts": [
+        { "label": "Estuar Foundation — гаряча лінія", "value": "+40 746 781 971" },
+        { "label": "Estuar Foundation — телефон", "value": "031 417 1888", "url": "http://www.estuar.org/" },
+        { "label": "JRS Румунія (Бухарест)", "value": "0744 405 657", "url": "https://www.jrsromania.org/" }
+      ],
+      "notes": [
+        "Звернутися по підтримку — це нормально. Послуги безкоштовні; за потреби надається перекладач."
+      ],
+      "sources": [
+        { "label": "UNHCR Румунія — Психосоціальна підтримка", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/psychological-counselling/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "women-reproductive",
+      "title": "Жіноче та репродуктивне здоров'я",
+      "summary": "Доступні послуги репродуктивного здоров'я (контрацепція, грудне вигодовування, спостереження вагітності) та підтримка для постраждалих від домашнього насильства.",
+      "contacts": [
+        { "label": "Women Center — навігація та послуги", "value": "womencenter.info", "url": "https://womencenter.info/en" }
+      ],
+      "sources": [
+        { "label": "UNHCR Румунія — Медична допомога", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/health-care/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "key-contacts",
+      "title": "Важливі контакти",
+      "summary": "Офіційні джерела та довідкові ресурси з охорони здоров'я.",
+      "contacts": [
+        { "label": "Екстрений виклик (поліція, швидка, пожежні)", "value": "112" },
+        { "label": "UNHCR Румунія — Медична допомога", "value": "help.unhcr.org/romania", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/health-care/" },
+        { "label": "Dopomoha — Медицина", "value": "dopomoha.ro", "url": "https://dopomoha.ro/uk/sanatate" },
+        { "label": "Services Advisor — карта послуг для біженців", "value": "data.unhcr.org", "url": "https://data.unhcr.org/en/situations/ukraine/location/10782" }
+      ],
+      "sources": []
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "_meta": {
+    "section": "work",
+    "language": "uk",
+    "updated": "2026-06-20",
+    "disclaimer": "Інформація має довідковий характер і не є юридичною консультацією. Правила та суми можуть змінюватися — перевіряйте актуальні дані за офіційними джерелами.",
+    "topicShape": "id, title, summary, steps[], contacts[]{label,value,url?}, notes[], sources[]{label,url,verified}"
+  },
+  "topics": [
+    {
+      "id": "right-to-work",
+      "title": "Право на роботу",
+      "summary": "Маючи тимчасовий захист, ви можете працювати в Румунії на тих самих умовах, що й громадяни Румунії, без окремого дозволу на роботу — зокрема з правом на мінімальну зарплату.",
+      "notes": [
+        "Окремий дозвіл на роботу не потрібен.",
+        "Для працевлаштування потрібні код CNP і рахунок у румунському банку."
+      ],
+      "sources": [
+        { "label": "UNHCR Румунія — Працевлаштування", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/employment/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "without-diplomas",
+      "title": "Робота без дипломів",
+      "summary": "Якщо у вас немає документів про кваліфікацію чи досвід, вас можуть найняти на основі власноручної заяви (affidavit), поданої разом із роботодавцем.",
+      "notes": [
+        "Такий найм можливий на 12 місяців із можливістю продовження (схема «Direct Employment»).",
+        "Це не діє для регульованих професій (лікарі, стоматологи, фармацевти, медсестри, акушерки, ветеринари, архітектори тощо) — для них потрібне визнання кваліфікації через CNRED."
+      ],
+      "sources": [
+        { "label": "UNHCR Румунія — Працевлаштування", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/employment/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "recognize-qualifications",
+      "title": "Визнання дипломів і кваліфікацій",
+      "summary": "Для регульованих професій і для офіційного визнання дипломів звертайтеся до Національного центру визнання й еквівалентності дипломів (CNRED).",
+      "contacts": [
+        { "label": "CNRED — визнання дипломів", "value": "cnred.edu.ro", "url": "https://cnred.edu.ro/" }
+      ],
+      "sources": [
+        { "label": "UNHCR Румунія — Працевлаштування", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/employment/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "find-a-job",
+      "title": "Як знайти роботу",
+      "summary": "Вакансії шукають на онлайн-платформах, через державне агентство зайнятості та на спеціальних платформах для українців.",
+      "contacts": [
+        { "label": "Jobs for Ukraine — безкоштовно для українців", "value": "jobs4ukr.com", "url": "https://jobs4ukr.com/" },
+        { "label": "eJobs", "value": "ejobs.ro", "url": "https://www.ejobs.ro/" },
+        { "label": "BestJobs", "value": "bestjobs.eu", "url": "https://www.bestjobs.eu/" },
+        { "label": "ANOFM — державна служба зайнятості (безкоштовно)", "value": "anofm.ro", "url": "https://www.anofm.ro/" }
+      ],
+      "notes": [
+        "ANOFM (окружні агентства зайнятості) безкоштовно допомагає з пошуком роботи.",
+        "LinkedIn корисний для офісних і технічних посад; на OLX є оголошення про роботу."
+      ],
+      "sources": [
+        { "label": "Jobs for Ukraine", "url": "https://jobs4ukr.com/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "employment-rights",
+      "title": "Права працівника",
+      "summary": "Працюйте лише з письмовим трудовим договором; ви маєте ті самі права, що й румунські працівники.",
+      "notes": [
+        "Договір має бути оформлений і зареєстрований до першого робочого дня — не погоджуйтеся працювати без договору.",
+        "Діє національна мінімальна зарплата (приблизно 4325 лей брутто на місяць з 1 липня 2026 р.; сума переглядається — перевіряйте актуальну).",
+        "У разі порушень звертайтеся до Інспекції праці (ITM) або до ANOFM."
+      ],
+      "sources": [
+        { "label": "EURES — умови життя та праці в Румунії", "url": "https://eures.europa.eu/living-and-working/living-and-working-conditions-europe/living-and-working-conditions-romania_en", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "self-employed",
+      "title": "Самозайнятість (PFA)",
+      "summary": "Можна працювати на себе, зареєструвавшись як фізична особа-підприємець (PFA) у Торговому реєстрі та податковій (ANAF).",
+      "notes": [
+        "Це передбачає податки та звітність — перед реєстрацією краще проконсультуватися в ANAF або з бухгалтером."
+      ],
+      "sources": []
+    },
+    {
+      "id": "key-contacts",
+      "title": "Важливі контакти",
+      "summary": "Офіційні джерела та служби з питань роботи.",
+      "contacts": [
+        { "label": "ANOFM — служба зайнятості", "value": "anofm.ro", "url": "https://www.anofm.ro/" },
+        { "label": "CNRED — визнання дипломів", "value": "cnred.edu.ro", "url": "https://cnred.edu.ro/" },
+        { "label": "Jobs for Ukraine", "value": "jobs4ukr.com", "url": "https://jobs4ukr.com/" },
+        { "label": "Dopomoha — Мої права", "value": "dopomoha.ro", "url": "https://dopomoha.ro/uk/my-rights" }
+      ],
+      "sources": []
+    }
+  ]
+}

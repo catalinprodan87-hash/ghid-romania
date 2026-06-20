@@ -1,0 +1,98 @@
+{
+  "_meta": {
+    "section": "work",
+    "language": "ro",
+    "updated": "2026-06-20",
+    "disclaimer": "Informațiile au caracter orientativ și nu constituie consultanță juridică. Regulile și sumele se pot schimba — verificați datele actuale la sursele oficiale.",
+    "topicShape": "id, title, summary, steps[], contacts[]{label,value,url?}, notes[], sources[]{label,url,verified}"
+  },
+  "topics": [
+    {
+      "id": "right-to-work",
+      "title": "Dreptul de a munci",
+      "summary": "Cu protecție temporară puteți munci în România în aceleași condiții ca cetățenii români, fără un permis de muncă separat — inclusiv cu dreptul la salariul minim.",
+      "notes": [
+        "Nu este nevoie de un permis de muncă separat.",
+        "Pentru angajare aveți nevoie de codul CNP și de un cont la o bancă din România."
+      ],
+      "sources": [
+        { "label": "UNHCR România — Angajare", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/employment/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "without-diplomas",
+      "title": "Muncă fără diplome",
+      "summary": "Dacă nu aveți acte care să dovedească pregătirea sau experiența, puteți fi angajat pe baza unei declarații pe propria răspundere, depusă împreună cu angajatorul.",
+      "notes": [
+        "Această angajare este posibilă pentru 12 luni, cu posibilitatea prelungirii (schema „Direct Employment”).",
+        "Nu se aplică profesiilor reglementate (medici, dentiști, farmaciști, asistenți medicali, moașe, medici veterinari, arhitecți etc.) — pentru acestea este nevoie de recunoașterea calificării prin CNRED."
+      ],
+      "sources": [
+        { "label": "UNHCR România — Angajare", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/employment/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "recognize-qualifications",
+      "title": "Recunoașterea diplomelor și calificărilor",
+      "summary": "Pentru profesiile reglementate și pentru recunoașterea oficială a diplomelor, adresați-vă Centrului Național de Recunoaștere și Echivalare a Diplomelor (CNRED).",
+      "contacts": [
+        { "label": "CNRED — recunoașterea diplomelor", "value": "cnred.edu.ro", "url": "https://cnred.edu.ro/" }
+      ],
+      "sources": [
+        { "label": "UNHCR România — Angajare", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/employment/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "find-a-job",
+      "title": "Cum găsiți un loc de muncă",
+      "summary": "Locurile de muncă se caută pe platforme online, prin agenția de stat pentru ocupare și pe platforme dedicate ucrainenilor.",
+      "contacts": [
+        { "label": "Jobs for Ukraine — gratuit pentru ucraineni", "value": "jobs4ukr.com", "url": "https://jobs4ukr.com/" },
+        { "label": "eJobs", "value": "ejobs.ro", "url": "https://www.ejobs.ro/" },
+        { "label": "BestJobs", "value": "bestjobs.eu", "url": "https://www.bestjobs.eu/" },
+        { "label": "ANOFM — serviciul public de ocupare (gratuit)", "value": "anofm.ro", "url": "https://www.anofm.ro/" }
+      ],
+      "notes": [
+        "ANOFM (agențiile județene de ocupare) oferă sprijin gratuit pentru găsirea unui loc de muncă.",
+        "LinkedIn este util pentru posturi de birou și tehnice; pe OLX există anunțuri de angajare."
+      ],
+      "sources": [
+        { "label": "Jobs for Ukraine", "url": "https://jobs4ukr.com/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "employment-rights",
+      "title": "Drepturile angajatului",
+      "summary": "Munciți doar cu un contract de muncă scris; aveți aceleași drepturi ca lucrătorii români.",
+      "notes": [
+        "Contractul trebuie încheiat și înregistrat înainte de prima zi de lucru — nu acceptați să munciți fără contract.",
+        "Se aplică salariul minim pe economie (aproximativ 4325 lei brut pe lună de la 1 iulie 2026; suma se revizuiește — verificați valoarea actuală).",
+        "În caz de abuzuri, adresați-vă Inspecției Muncii (ITM) sau ANOFM."
+      ],
+      "sources": [
+        { "label": "EURES — condiții de viață și de muncă în România", "url": "https://eures.europa.eu/living-and-working/living-and-working-conditions-europe/living-and-working-conditions-romania_en", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "self-employed",
+      "title": "Activitate independentă (PFA)",
+      "summary": "Puteți lucra pe cont propriu înregistrându-vă ca persoană fizică autorizată (PFA) la Registrul Comerțului și la ANAF.",
+      "notes": [
+        "Aceasta implică taxe și raportări — înainte de înregistrare este bine să consultați ANAF sau un contabil."
+      ],
+      "sources": []
+    },
+    {
+      "id": "key-contacts",
+      "title": "Contacte importante",
+      "summary": "Surse oficiale și servicii în domeniul muncii.",
+      "contacts": [
+        { "label": "ANOFM — serviciul de ocupare", "value": "anofm.ro", "url": "https://www.anofm.ro/" },
+        { "label": "CNRED — recunoașterea diplomelor", "value": "cnred.edu.ro", "url": "https://cnred.edu.ro/" },
+        { "label": "Jobs for Ukraine", "value": "jobs4ukr.com", "url": "https://jobs4ukr.com/" },
+        { "label": "Dopomoha — Drepturile mele", "value": "dopomoha.ro", "url": "https://dopomoha.ro/ro/my-rights" }
+      ],
+      "sources": []
+    }
+  ]
+}

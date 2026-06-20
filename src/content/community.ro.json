@@ -1,0 +1,90 @@
+{
+  "_meta": {
+    "section": "community",
+    "language": "ro",
+    "updated": "2026-06-18",
+    "disclaimer": "Informațiile au caracter orientativ. Serviciile, programele și contactele se pot schimba — verificați datele actuale la organizații.",
+    "topicShape": "id, title, summary, steps[], contacts[]{label,value,url?}, notes[], sources[]{label,url,verified}"
+  },
+  "topics": [
+    {
+      "id": "blue-dot",
+      "title": "Centrele „Blue Dot”",
+      "summary": "„Blue Dot” (UNICEF/UNHCR) sunt spații sigure de sprijin, unde, într-un singur loc, găsiți informații, consiliere, sprijin psihologic, asistență juridică și sprijin pentru copii și familii.",
+      "notes": [
+        "Centrele funcționează în punctele de frontieră și în orașe (printre care București, Brașov, Iași, Siret, Galați și altele).",
+        "Serviciile sunt gratuite; la nevoie se asigură interpret."
+      ],
+      "sources": [
+        { "label": "UNICEF România — Blue Dot", "url": "https://www.unicef.org/romania/blue-dot-providing-critical-support-refugees-ukraine", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "romanian-classes",
+      "title": "Cursuri gratuite de română",
+      "summary": "Mai multe organizații oferă cursuri gratuite de limba română pentru ucraineni.",
+      "notes": [
+        "IOM (Organizația Internațională pentru Migrație) organizează cursuri gratuite, în grupe mici, cu profesori specializați.",
+        "Cursuri oferă și ONG-uri locale și centrele de sprijin — întrebați la „Blue Dot” sau pe dopomoha.ro."
+      ],
+      "contacts": [
+        { "label": "IOM România — sprijin pentru ucraineni", "value": "romania.iom.int", "url": "https://romania.iom.int/ukraine-response" }
+      ],
+      "sources": [
+        { "label": "IOM România — Ukraine Response", "url": "https://romania.iom.int/ukraine-response", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "integration-programs",
+      "title": "Programe de integrare",
+      "summary": "Există programe care ajută la adaptare: limbă, muncă, orientare culturală și activități sociale.",
+      "notes": [
+        "IOM derulează programul de integrare INCLUD-UA și are ghidul „Cultural Orientation – Romania” pentru nou-veniți.",
+        "Pagina de integrare de pe dopomoha.ro adună sprijin pentru găsirea unui loc de muncă, redactarea CV-ului și consiliere (inclusiv pentru tineri)."
+      ],
+      "contacts": [
+        { "label": "Dopomoha — Integrare", "value": "dopomoha.ro", "url": "https://dopomoha.ro/ro/integration" }
+      ],
+      "sources": [
+        { "label": "IOM România — INCLUD-UA", "url": "https://romania.iom.int/transition-emergency-assistance-sustainable-and-autonomous-social-inclusion-ukrainian-refugees-romanian-society-includ-ua-am2a1b", "verified": "2026-06-18" },
+        { "label": "Dopomoha — Integrare", "url": "https://dopomoha.ro/ro/integration", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "legal-aid",
+      "title": "Asistență juridică gratuită",
+      "summary": "Mai multe organizații oferă consultanță juridică gratuită refugiaților.",
+      "notes": [
+        "Asistență juridică se poate obține în centrele „Blue Dot” și prin partenerii UNHCR.",
+        "JRS România (Serviciul Iezuit pentru Refugiați) oferă sprijin, inclusiv în București."
+      ],
+      "contacts": [
+        { "label": "JRS România", "value": "jrsromania.org", "url": "https://www.jrsromania.org/" },
+        { "label": "UNHCR România — ajutor", "value": "help.unhcr.org/romania", "url": "https://help.unhcr.org/romania/" }
+      ],
+      "sources": []
+    },
+    {
+      "id": "ukrainian-community",
+      "title": "Comunitatea ucraineană",
+      "summary": "Legătura cu alți ucraineni ajută la o adaptare mai rapidă și la găsirea sprijinului.",
+      "notes": [
+        "Organizații ucrainene, biserici (ortodoxe și greco-catolice) și grupuri din rețelele sociale există în multe orașe.",
+        "În grupurile ucrainene locale se împărtășesc sfaturi despre locuință, muncă, școli și de unde se cumpără produse familiare."
+      ],
+      "sources": []
+    },
+    {
+      "id": "key-contacts",
+      "title": "Contacte importante",
+      "summary": "Organizații de sprijin și integrare.",
+      "contacts": [
+        { "label": "IOM România", "value": "romania.iom.int", "url": "https://romania.iom.int/ukraine-response" },
+        { "label": "UNHCR România", "value": "help.unhcr.org/romania", "url": "https://help.unhcr.org/romania/" },
+        { "label": "Dopomoha — Integrare", "value": "dopomoha.ro", "url": "https://dopomoha.ro/ro/integration" },
+        { "label": "JRS România", "value": "jrsromania.org", "url": "https://www.jrsromania.org/" }
+      ],
+      "sources": []
+    }
+  ]
+}

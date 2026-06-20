@@ -1,0 +1,137 @@
+{
+  "_meta": {
+    "section": "health",
+    "language": "ro",
+    "updated": "2026-06-18",
+    "disclaimer": "Informațiile au caracter orientativ și nu constituie consultanță medicală. În caz de pericol pentru viață sunați la 112. Contactele și serviciile se pot schimba — verificați datele actuale la sursele oficiale.",
+    "topicShape": "id, title, summary, steps[], documents[], contacts[]{label,value,url?}, notes[], sources[]{label,url,verified}"
+  },
+  "topics": [
+    {
+      "id": "emergency-112",
+      "title": "Numărul de urgență 112",
+      "summary": "112 este numărul unic de urgență din România: poliție, ambulanță și pompieri. Apelul este gratuit.",
+      "notes": [
+        "Funcționează la nivel național, 24/7, din toate rețelele de telefonie.",
+        "Operatorii pot prelua apeluri în mai multe limbi internaționale și în limbile minorităților naționale.",
+        "Sunați la 112 în caz de pericol pentru viață, rănire gravă sau urgență medicală."
+      ],
+      "contacts": [
+        { "label": "Apel de urgență (poliție, ambulanță, pompieri)", "value": "112" }
+      ],
+      "sources": [
+        { "label": "UNHCR România — Asistență medicală", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/health-care/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "how-to-access-care",
+      "title": "Cum accesați asistența medicală",
+      "summary": "Cu protecție temporară aveți acces la servicii medicale în aceleași condiții ca cetățenii români asigurați — gratuit, fără plata contribuțiilor.",
+      "notes": [
+        "Se acordă gratuit: asistența medicală primară și tratamentul corespunzător; asistența de urgență în spital; tratamentul afecțiunilor acute sau cronice care pun viața în pericol imediat.",
+        "Sunteți scutit de coplată și de contribuția personală pentru medicamentele din tratamentul ambulatoriu.",
+        "La medicul specialist din ambulatoriu puteți ajunge fără bilet de trimitere."
+      ],
+      "sources": [
+        { "label": "UNHCR România — Asistență medicală", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/health-care/", "verified": "2026-06-18" },
+        { "label": "Dopomoha.ro — Sănătate", "url": "https://dopomoha.ro/ro/sanatate", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "family-doctor",
+      "title": "Medicul de familie",
+      "summary": "Medicul de familie este primul punct de contact pentru majoritatea nevoilor medicale: consultații, rețete, trimiteri.",
+      "steps": [
+        "Vă puteți adresa unui medic de familie indiferent dacă sunteți sau nu înscris la el.",
+        "Dacă este posibil, înscrieți-vă la un medic de familie din apropierea locuinței pentru monitorizare continuă.",
+        "Medicul de familie vă trimite, la nevoie, la un specialist sau la spital."
+      ],
+      "sources": [
+        { "label": "UNHCR România — Asistență medicală", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/health-care/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "hospitals-emergency",
+      "title": "Spitale și urgențe",
+      "summary": "În situații de urgență mergeți la structurile de urgență (UPU/CPU) din spitale sau sunați la 112.",
+      "notes": [
+        "Pentru urgențele medicale și chirurgicale este posibilă trimiterea directă la specialist, fără bilet de trimitere de la medicul de familie.",
+        "Structuri de urgență: UPU (Unitate de Primiri Urgențe) sau CPU — în unitățile sanitare cu paturi."
+      ],
+      "contacts": [
+        { "label": "Apel de urgență", "value": "112" }
+      ],
+      "sources": [
+        { "label": "UNHCR România — Asistență medicală", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/health-care/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "pharmacies-medicines",
+      "title": "Farmacii și medicamente",
+      "summary": "Medicamentele pe bază de rețetă sunt acoperite în aceleași condiții ca pentru cetățenii români asigurați; sunteți scutit de coplata pentru medicamentele din ambulatoriu.",
+      "notes": [
+        "Farmacia se numește „farmacie”.",
+        "În orașele mari există farmacii non-stop."
+      ],
+      "sources": [
+        { "label": "Dopomoha.ro — Sănătate", "url": "https://dopomoha.ro/ro/sanatate", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "children-health",
+      "title": "Sănătatea copiilor",
+      "summary": "Copiii au acces la asistență medicală și la vaccinare în aceleași condiții ca și copiii români asigurați.",
+      "notes": [
+        "Sunt disponibile vaccinările (inclusiv antipoliomielitică și antirujeolică) și asistența pediatrică.",
+        "Centrele „Blue Dot” (UNICEF/UNHCR) oferă sprijin și un spațiu sigur pentru copii și familii.",
+        "Pentru copiii cu cancer există sprijin dedicat — Ukraine Child Cancer Help."
+      ],
+      "contacts": [
+        { "label": "Ukraine Child Cancer Help", "value": "ukrainechildcancerhelp.ro", "url": "https://ukrainechildcancerhelp.ro/en" }
+      ],
+      "sources": [
+        { "label": "UNICEF România — sprijin pentru copii și familii", "url": "https://www.unicef.org/romania/stories/unicef-support-romania-refugee-children-women-and-families-coming-ukraine", "verified": "2026-06-18" },
+        { "label": "UNHCR România — Asistență medicală", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/health-care/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "mental-health",
+      "title": "Sprijin psihologic",
+      "summary": "Mai multe organizații din România oferă sprijin psihologic gratuit refugiaților, cu interpreți și specialiști vorbitori de ucraineană.",
+      "contacts": [
+        { "label": "Estuar Foundation — linie telefonică", "value": "+40 746 781 971" },
+        { "label": "Estuar Foundation — telefon", "value": "031 417 1888", "url": "http://www.estuar.org/" },
+        { "label": "JRS România (București)", "value": "0744 405 657", "url": "https://www.jrsromania.org/" }
+      ],
+      "notes": [
+        "Este normal să ceri sprijin. Serviciile sunt gratuite; la nevoie se asigură interpret."
+      ],
+      "sources": [
+        { "label": "UNHCR România — Sprijin psihosocial", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/psychological-counselling/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "women-reproductive",
+      "title": "Sănătatea femeii și a reproducerii",
+      "summary": "Sunt disponibile servicii de sănătate a reproducerii (contracepție, alăptare, monitorizarea sarcinii) și sprijin pentru victimele violenței domestice.",
+      "contacts": [
+        { "label": "Women Center — orientare și servicii", "value": "womencenter.info", "url": "https://womencenter.info/en" }
+      ],
+      "sources": [
+        { "label": "UNHCR România — Asistență medicală", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/health-care/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "key-contacts",
+      "title": "Contacte importante",
+      "summary": "Surse oficiale și resurse de informare în domeniul sănătății.",
+      "contacts": [
+        { "label": "Apel de urgență (poliție, ambulanță, pompieri)", "value": "112" },
+        { "label": "UNHCR România — Asistență medicală", "value": "help.unhcr.org/romania", "url": "https://help.unhcr.org/romania/information-for-people-from-ukraine/health-care/" },
+        { "label": "Dopomoha — Sănătate", "value": "dopomoha.ro", "url": "https://dopomoha.ro/ro/sanatate" },
+        { "label": "Services Advisor — harta serviciilor pentru refugiați", "value": "data.unhcr.org", "url": "https://data.unhcr.org/en/situations/ukraine/location/10782" }
+      ],
+      "sources": []
+    }
+  ]
+}

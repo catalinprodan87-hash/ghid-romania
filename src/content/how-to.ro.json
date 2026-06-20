@@ -1,0 +1,100 @@
+{
+  "_meta": {
+    "section": "how-to",
+    "language": "ro",
+    "updated": "2026-06-20",
+    "disclaimer": "Această aplicație este un ghid. Nu înlocuiește consultanța oficială. Într-o situație care pune viața în pericol, sunați la 112.",
+    "topicShape": "id, title, summary, steps[], notes[]"
+  },
+  "topics": [
+    {
+      "id": "getting-started",
+      "title": "Primii pași",
+      "summary": "„Ghid România” vă ajută să vă adaptați mai repede: limbă, acte, sănătate și locuri utile — într-o singură aplicație.",
+      "notes": [
+        "Limba aplicației poate fi schimbată oricând între ucraineană și română — butonul din partea de sus sau din „Setări”.",
+        "Aplicația poate fi instalată pe ecranul principal al telefonului și folosită ca o aplicație obișnuită."
+      ]
+    },
+    {
+      "id": "install",
+      "title": "Instalarea pe telefon",
+      "summary": "Adăugați aplicația pe ecranul principal — se deschide pe tot ecranul, ca o aplicație obișnuită, și funcționează fără internet. Nu sunt necesare nici magazin de aplicații, nici cont.",
+      "steps": [
+        "Android: deschideți linkul aplicației în browserul Chrome.",
+        "Jos poate apărea mesajul „Adaugă la ecranul principal” — apăsați „Instalează”.",
+        "Dacă mesajul nu apare: apăsați meniul ⋮ (dreapta sus) → „Adaugă la ecranul principal” → „Instalează”.",
+        "Pictograma apare pe ecranul principal — deschideți aplicația de acolo."
+      ],
+      "notes": [
+        "iPhone (Safari): deschideți linkul în Safari → apăsați butonul „Distribuie” (pătrat cu o săgeată în sus) → „Adaugă la ecranul de pornire” → „Adaugă”.",
+        "După prima deschidere cu internet, aplicația funcționează offline: ghidul de conversație, urgența și secțiunile deja deschise sunt disponibile fără rețea."
+      ]
+    },
+    {
+      "id": "offline",
+      "title": "Funcționare fără internet",
+      "summary": "Cele mai importante informații sunt disponibile chiar și fără rețea.",
+      "notes": [
+        "Ghidul de conversație, numerele de urgență și paginile salvate funcționează offline.",
+        "Redarea vocală a cuvintelor necesită internet, dar pronunția cu litere ucrainene este mereu disponibilă."
+      ]
+    },
+    {
+      "id": "emergency-button",
+      "title": "Butonul „Urgență”",
+      "summary": "Butonul roșu din partea de sus este mereu la îndemână.",
+      "steps": [
+        "Apăsați „Urgență” pentru a vedea imediat numărul 112, frazele de urgență și contactele importante.",
+        "Într-o situație care pune viața în pericol, sunați la 112 — apelul este gratuit și funcționează non-stop."
+      ]
+    },
+    {
+      "id": "learn-romanian",
+      "title": "Învățarea limbii române",
+      "summary": "Cursuri și teste în care explicațiile sunt în ucraineană, iar limba pe care o învățați este româna.",
+      "steps": [
+        "Alegeți o lecție și parcurgeți exercițiile: cuvinte, ascultare, completarea spațiilor.",
+        "Atingeți un cuvânt pentru a-i auzi pronunția.",
+        "Apăsați microfonul și rostiți fraza — aplicația vă oferă indicii de pronunție.",
+        "Reveniți la secțiunea „Recapitulare” pentru a fixa ce ați învățat."
+      ]
+    },
+    {
+      "id": "phrasebook",
+      "title": "Ghid de conversație",
+      "summary": "Fraze gata făcute pentru situații frecvente: urgență, medic, farmacie, acte, cumpărături.",
+      "notes": [
+        "Fiecare frază are trei rânduri: în română, în ucraineană și pronunția cu litere ucrainene.",
+        "Atingeți „▶” pentru a auzi fraza (dacă aveți internet)."
+      ]
+    },
+    {
+      "id": "institutions-health",
+      "title": "Instituții și sănătate",
+      "summary": "Instrucțiuni pas cu pas despre acte, drepturi și asistență medicală.",
+      "notes": [
+        "Fiecare temă conține un rezumat, pași, actele necesare și contacte oficiale.",
+        "Atingeți un număr de telefon pentru a suna direct."
+      ]
+    },
+    {
+      "id": "search",
+      "title": "Căutare",
+      "summary": "Găsiți rapid tema sau fraza de care aveți nevoie.",
+      "notes": [
+        "Căutarea funcționează atât în ucraineană, cât și în română — chiar și fără semne diacritice."
+      ]
+    },
+    {
+      "id": "sources-trust",
+      "title": "Surse și încredere",
+      "summary": "Arătăm de unde provine informația și când a fost verificată.",
+      "notes": [
+        "Fiecare temă oficială are un link către sursă și data verificării.",
+        "Informațiile au caracter orientativ și nu constituie consultanță juridică sau medicală — verificați datele actuale la sursele oficiale înainte de acțiuni importante.",
+        "Într-o situație care pune viața în pericol, sunați întotdeauna la 112."
+      ]
+    }
+  ]
+}

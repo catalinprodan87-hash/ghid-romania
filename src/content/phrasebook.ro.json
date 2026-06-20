@@ -1,0 +1,107 @@
+{
+  "_meta": {
+    "section": "phrasebook",
+    "language": "ro",
+    "updated": "2026-06-18",
+    "note": "Ghid de conversație offline. Fiecare frază: ro (română), uk (ucraineană), pron_uk (pronunție cu litere ucrainene). Pentru redare vocală (TTS) aplicația poate folosi câmpul ro cu limba ro-RO.",
+    "shape": "categories[]{ id, title, phrases[]{ ro, uk, pron_uk } }"
+  },
+  "categories": [
+    {
+      "id": "emergency",
+      "title": "Urgențe",
+      "phrases": [
+        { "ro": "Ajutor!", "uk": "Допоможіть!", "pron_uk": "ажутóр" },
+        { "ro": "Sunați la 112!", "uk": "Телефонуйте 112!", "pron_uk": "сунáць ла унý-унý-дóй" },
+        { "ro": "Este o urgență.", "uk": "Це невідкладний випадок.", "pron_uk": "éсте о урджéнце" },
+        { "ro": "Am nevoie de un doctor.", "uk": "Мені потрібен лікар.", "pron_uk": "ам невóє де ун дóктор" },
+        { "ro": "Chemați o ambulanță!", "uk": "Викличте швидку!", "pron_uk": "кемáць о амбулáнце" },
+        { "ro": "Incendiu! / Foc!", "uk": "Пожежа!", "pron_uk": "інчéндіу / фок" },
+        { "ro": "Poliția!", "uk": "Поліція!", "pron_uk": "полíціа" },
+        { "ro": "M-am pierdut.", "uk": "Я заблукав / заблукала.", "pron_uk": "мам п’єрдýт" }
+      ]
+    },
+    {
+      "id": "medical",
+      "title": "La medic și la farmacie",
+      "phrases": [
+        { "ro": "Mă simt rău.", "uk": "Мені погано.", "pron_uk": "ме сімт рéу" },
+        { "ro": "Mă doare aici.", "uk": "У мене болить тут.", "pron_uk": "ме доáре аíч" },
+        { "ro": "Am nevoie de medicamente.", "uk": "Мені потрібні ліки.", "pron_uk": "ам невóє де медікамéнте" },
+        { "ro": "Unde este o farmacie?", "uk": "Де аптека?", "pron_uk": "ýнде éсте о фармачíе" },
+        { "ro": "Sunt alergic / alergică la…", "uk": "У мене алергія на…", "pron_uk": "сунт алéрджік / алéрджіке ла" },
+        { "ro": "Sunt însărcinată.", "uk": "Я вагітна.", "pron_uk": "сунт инсерчінáте" },
+        { "ro": "Copilul meu este bolnav.", "uk": "Моя дитина хвора.", "pron_uk": "копíлул мéу éсте болнáв" },
+        { "ro": "Am nevoie de ajutor medical.", "uk": "Мені потрібна медична допомога.", "pron_uk": "ам невóє де ажутóр медікáл" }
+      ]
+    },
+    {
+      "id": "basics",
+      "title": "Bază și politețe",
+      "phrases": [
+        { "ro": "Bună ziua", "uk": "Добрий день", "pron_uk": "бýна зíуа" },
+        { "ro": "La revedere", "uk": "До побачення", "pron_uk": "ла ревéдере" },
+        { "ro": "Vă rog", "uk": "Будь ласка / прошу", "pron_uk": "ве рог" },
+        { "ro": "Mulțumesc", "uk": "Дякую", "pron_uk": "мулцумéск" },
+        { "ro": "Da / Nu", "uk": "Так / Ні", "pron_uk": "да / ну" },
+        { "ro": "Scuzați-mă", "uk": "Перепрошую / вибачте", "pron_uk": "скузáць-ме" },
+        { "ro": "Nu înțeleg.", "uk": "Я не розумію.", "pron_uk": "ну инцелéг" },
+        { "ro": "Nu vorbesc românește.", "uk": "Я не розмовляю румунською.", "pron_uk": "ну ворбéск роминéште" },
+        { "ro": "Vorbiți engleză?", "uk": "Ви розмовляєте англійською?", "pron_uk": "ворбíць енглéзе" },
+        { "ro": "Puteți repeta, vă rog?", "uk": "Повторіть, будь ласка.", "pron_uk": "путéць репетá, ве рог" }
+      ]
+    },
+    {
+      "id": "directions-help",
+      "title": "Ajutor și orientare",
+      "phrases": [
+        { "ro": "Mă puteți ajuta, vă rog?", "uk": "Допоможіть мені, будь ласка.", "pron_uk": "ме путéць ажутá, ве рог" },
+        { "ro": "Unde este…?", "uk": "Де знаходиться…?", "pron_uk": "ýнде éсте" },
+        { "ro": "Unde este toaleta?", "uk": "Де туалет?", "pron_uk": "ýнде éсте тоалéта" },
+        { "ro": "Unde este stația de autobuz?", "uk": "Де автобусна зупинка?", "pron_uk": "ýнде éсте стáціа де аутобýз" },
+        { "ro": "Unde este gara?", "uk": "Де залізничний вокзал?", "pron_uk": "ýнде éсте гáра" },
+        { "ro": "Cât costă?", "uk": "Скільки коштує?", "pron_uk": "кит кóсте" }
+      ]
+    },
+    {
+      "id": "official",
+      "title": "Acte și instituții",
+      "phrases": [
+        { "ro": "Sunt refugiat / refugiată din Ucraina.", "uk": "Я біженець / біженка з України.", "pron_uk": "сунт рефуджáт / рефуджáте дін украíна" },
+        { "ro": "Am protecție temporară.", "uk": "У мене тимчасовий захист.", "pron_uk": "ам протéкціе темпорáре" },
+        { "ro": "Unde este biroul de imigrări?", "uk": "Де офіс імміграції?", "pron_uk": "ýнде éсте бірóул де імігрéрь" },
+        { "ro": "Am nevoie de un interpret.", "uk": "Мені потрібен перекладач.", "pron_uk": "ам невóє де ун інтерпрéт" }
+      ]
+    },
+    {
+      "id": "shopping",
+      "title": "Cumpărături și viața de zi cu zi",
+      "phrases": [
+        { "ro": "Aș dori…", "uk": "Я хотів / хотіла би…", "pron_uk": "аш дорí" },
+        { "ro": "Cât costă acesta?", "uk": "Скільки це коштує?", "pron_uk": "кит кóсте ачéста" },
+        { "ro": "Acceptați cardul?", "uk": "Ви приймаєте картку?", "pron_uk": "акчептáць кáрдул" },
+        { "ro": "Unde pot cumpăra…?", "uk": "Де я можу купити…?", "pron_uk": "ýнде пот кумперá" }
+      ]
+    },
+    {
+      "id": "numbers",
+      "title": "Numere",
+      "phrases": [
+        { "ro": "zero", "uk": "нуль (0)", "pron_uk": "зéро" },
+        { "ro": "unu", "uk": "один (1)", "pron_uk": "ýну" },
+        { "ro": "doi", "uk": "два (2)", "pron_uk": "дой" },
+        { "ro": "trei", "uk": "три (3)", "pron_uk": "трей" },
+        { "ro": "patru", "uk": "чотири (4)", "pron_uk": "пáтру" },
+        { "ro": "cinci", "uk": "п’ять (5)", "pron_uk": "чінч" },
+        { "ro": "șase", "uk": "шість (6)", "pron_uk": "шáсе" },
+        { "ro": "șapte", "uk": "сім (7)", "pron_uk": "шáпте" },
+        { "ro": "opt", "uk": "вісім (8)", "pron_uk": "опт" },
+        { "ro": "nouă", "uk": "дев’ять (9)", "pron_uk": "нóуе" },
+        { "ro": "zece", "uk": "десять (10)", "pron_uk": "зéче" },
+        { "ro": "douăzeci", "uk": "двадцять (20)", "pron_uk": "доуезéч" },
+        { "ro": "cincizeci", "uk": "п’ятдесят (50)", "pron_uk": "чінчзéч" },
+        { "ro": "o sută", "uk": "сто (100)", "pron_uk": "о сýте" }
+      ]
+    }
+  ]
+}

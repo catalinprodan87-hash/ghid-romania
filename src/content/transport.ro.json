@@ -1,0 +1,103 @@
+{
+  "_meta": {
+    "section": "transport",
+    "language": "ro",
+    "updated": "2026-06-18",
+    "disclaimer": "Informațiile au caracter orientativ. Rutele, tarifele și facilitățile se pot schimba — verificați datele actuale la transportatori.",
+    "topicShape": "id, title, summary, steps[], contacts[]{label,value,url?}, notes[], sources[]{label,url,verified}"
+  },
+  "topics": [
+    {
+      "id": "city-transport",
+      "title": "Transportul în oraș",
+      "summary": "În orașe circulă autobuze, tramvaie și troleibuze, iar în București și metroul.",
+      "notes": [
+        "În București, transportul de suprafață este operat de STB, iar metroul de Metrorex.",
+        "Biletul sau cardul de călătorie se cumpără de la casele/chioșcurile de lângă stații; cardul se poate reîncărca online (de exemplu online.stbsa.ro).",
+        "Plata se poate face adesea cu card contactless sau în aplicație. De obicei călătoria se plătește — statul nu acoperă costurile de transport."
+      ],
+      "contacts": [
+        { "label": "STB — transportul Bucureștiului", "value": "stbsa.ro", "url": "https://www.stbsa.ro/" }
+      ],
+      "sources": [
+        { "label": "Dopomoha — Transport", "url": "https://dopomoha.ro/ro/transportation", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "ride-hailing",
+      "title": "Taxi și aplicații",
+      "summary": "În loc să opriți un taxi pe stradă, este mai sigur să folosiți aplicațiile de transport.",
+      "notes": [
+        "Funcționează Bolt, Uber și Free Now — în toate orașele mari, cu interfață și în engleză.",
+        "În aplicație vedeți dinainte prețul și traseul."
+      ],
+      "sources": [
+        { "label": "Dopomoha — Transport", "url": "https://dopomoha.ro/ro/transportation", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "intercity",
+      "title": "Călătorii între orașe",
+      "summary": "Între orașe circulă trenuri și autocare; biletele se pot cumpăra online.",
+      "contacts": [
+        { "label": "CFR Călători — calea ferată", "value": "cfrcalatori.ro", "url": "https://www.cfrcalatori.ro/" },
+        { "label": "FlixBus — autocare", "value": "flixbus.ro", "url": "https://www.flixbus.ro/" },
+        { "label": "Autogari.ro — orarul autocarelor", "value": "autogari.ro", "url": "https://www.autogari.ro/" }
+      ],
+      "notes": [
+        "În trenurile de noapte țineți bagajele aproape și închideți compartimentul."
+      ],
+      "sources": [
+        { "label": "Dopomoha — Transport", "url": "https://dopomoha.ro/ro/transportation", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "discounts-note",
+      "title": "Facilități și transport gratuit",
+      "summary": "La începutul războiului a existat transport gratuit pentru ucraineni, dar aceste scheme se schimbă.",
+      "notes": [
+        "Înainte de a călători, verificați dacă există în prezent reduceri sau bilete gratuite — la casa de bilete din gară, la transportator sau pe dopomoha.ro."
+      ],
+      "sources": [
+        { "label": "Dopomoha — Transport", "url": "https://dopomoha.ro/ro/transportation", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "driving-licence",
+      "title": "Preschimbarea permisului de conducere",
+      "summary": "Având ședere legală, puteți preschimba un permis de conducere străin cu unul românesc.",
+      "notes": [
+        "Preschimbarea se face la DRPCIV (Direcția Regim Permise de Conducere și Înmatriculare a Vehiculelor), conform Ordonanței 163/2011.",
+        "Lista actualizată a documentelor necesare se găsește pe site-ul DRPCIV."
+      ],
+      "contacts": [
+        { "label": "DRPCIV — permise și înmatriculări", "value": "drpciv.ro", "url": "https://www.drpciv.ro/" }
+      ],
+      "sources": [
+        { "label": "Ambasada SUA în România — condusul în România", "url": "https://ro.usembassy.gov/driving-in-romania/", "verified": "2026-06-18" }
+      ]
+    },
+    {
+      "id": "car",
+      "title": "Mașină proprie",
+      "summary": "Pentru a conduce o mașină aveți nevoie de actele vehiculului și de o asigurare valabilă.",
+      "notes": [
+        "Asigurarea obligatorie de răspundere civilă este RCA.",
+        "Când conduceți, aveți la dvs. talonul, asigurarea și permisul de conducere.",
+        "Pentru înmatricularea sau importul mașinii, adresați-vă DRPCIV."
+      ],
+      "sources": []
+    },
+    {
+      "id": "key-contacts",
+      "title": "Contacte importante",
+      "summary": "Transportatori și surse oficiale despre transport.",
+      "contacts": [
+        { "label": "CFR Călători — calea ferată", "value": "cfrcalatori.ro", "url": "https://www.cfrcalatori.ro/" },
+        { "label": "DRPCIV — permise și înmatriculări", "value": "drpciv.ro", "url": "https://www.drpciv.ro/" },
+        { "label": "Dopomoha — Transport", "value": "dopomoha.ro", "url": "https://dopomoha.ro/ro/transportation" }
+      ],
+      "sources": []
+    }
+  ]
+}

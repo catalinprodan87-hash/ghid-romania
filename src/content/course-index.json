@@ -1,0 +1,19 @@
+{
+  "course_uk": "Румунська для початківців",
+  "course_ro": "Româna pentru începători",
+  "units": [
+    {
+      "id": "a1-greetings",
+      "unit_uk": "Привітання та знайомство",
+      "unit_ro": "Salutări și prezentare",
+      "lessons": [
+        {
+          "id": "a1-greetings-01",
+          "level": "A1",
+          "title_uk": "Перші слова: вітання",
+          "title_ro": "Primele cuvinte: salutul"
+        }
+      ]
+    }
+  ]
+}
